@@ -1,0 +1,12 @@
+[2026-04-27T18:01:43.950Z] ✅ Session loaded
+[2026-04-27T18:01:56.594Z] ⚠️ Session expired — please login again
+[2026-04-27T18:02:57.069Z] ✅ New session saved
+[2026-04-27T18:02:57.070Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-27T18:02:57.072Z] 
+🚀 New cycle
+[2026-04-27T18:02:57.097Z] ⚠️ Modal detected... closing
+[2026-04-27T18:02:58.707Z] ⌨️ Esc pressed
+[2026-04-27T18:02:58.763Z] 📊 Net new before: 224
+[2026-04-27T18:02:58.772Z] 🚫 Limit detected — cooling down 30 min
+[2026-04-27T18:03:58.160Z] 🛑 SIGINT received — closing browser
+[2026-04-27T18:03:58.225Z] ⚠️ Error: page.waitForTimeout: Target page, context or browser has been closed

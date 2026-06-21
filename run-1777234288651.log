@@ -1,0 +1,53 @@
+[2026-04-26T20:11:31.736Z] ✅ Session loaded
+[2026-04-26T20:11:48.127Z] ⚠️ Saved session appears expired — deleting and re-authenticating
+[2026-04-26T20:11:48.131Z] 👉 Please login manually in the browser window...
+[2026-04-26T20:12:48.673Z] ✅ New session saved
+[2026-04-26T20:12:48.673Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-26T20:14:03.716Z] 
+🚀 New cycle
+[2026-04-26T20:14:03.733Z] ⚠️ Modal detected... closing
+[2026-04-26T20:14:07.707Z] ✅ Modal closed
+[2026-04-26T20:14:08.415Z] 📊 Net new before: 1
+[2026-04-26T20:14:16.514Z] ⚠️ Modal detected... closing
+[2026-04-26T20:14:20.275Z] ✅ Modal closed
+[2026-04-26T20:14:21.625Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T20:14:21.625Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T20:14:22.583Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T20:14:23.545Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T20:14:24.493Z] ✅ Clicked Apply (from dropdown)
+[2026-04-26T20:14:28.945Z] ☑️ Selected count: unknown
+[2026-04-26T20:14:33.041Z] ❌ Could not find Export button. All buttons: Manage billing | AI Assistant | JC | Import | Copy of Default view | Hide Filters
+1 | Research with AI | Create workflow | Save search | Companies Auto-Score | Search settings | Total
+2.0K | Net New
+1.9K | Saved
+101 | 1 | Clear filters
+1 | More Filters | Name | Actions | Links | Number of employees | Qualify Account | Industries | Keywords | Location | Fit Score 4090 0426200536 | Add column | CORE GROUP | Click to run | Excellent
+72 | Construction | mold remediation | Austin, Texas | Restore Right Solutions | water restoration | Quick Dry Restoration | water damage | Atlas National Renovations | restoration services | Plano, Texas
+[2026-04-26T20:14:33.041Z] ⚠️ Error: Could not locate Export button — see log
+[2026-04-26T20:14:38.042Z] 
+🚀 New cycle
+[2026-04-26T20:14:38.084Z] ⚠️ Modal detected... closing
+[2026-04-26T20:14:40.943Z] ✅ Modal closed
+[2026-04-26T20:14:40.983Z] 📊 Net new before: 1
+[2026-04-26T20:14:41.043Z] ⚠️ Modal detected... closing
+[2026-04-26T20:14:42.860Z] ⌨️ Esc pressed
+[2026-04-26T20:14:42.885Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T20:14:42.885Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T20:14:44.161Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T20:14:45.000Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T20:14:46.042Z] ✅ Clicked Apply (from dropdown)
+[2026-04-26T20:14:50.052Z] ☑️ Selected count: 25
+[2026-04-26T20:14:54.516Z] ✅ Clicked Export (sibling of selection count)
+[2026-04-26T20:14:57.420Z] ✅ Clicked: text=Export CSV
+[2026-04-26T20:14:58.925Z] 📤 Exporting CSV...
+[2026-04-26T20:15:10.981Z] ⚠️ No download detected
+[2026-04-26T20:15:11.190Z] ⚠️ Export failed (1)
+[2026-04-26T20:15:16.203Z] 
+🚀 New cycle
+[2026-04-26T20:15:16.287Z] ⚠️ Modal detected... closing
+[2026-04-26T20:15:18.604Z] ✅ Modal closed
+[2026-04-26T20:15:18.845Z] 📊 Net new before: 1
+[2026-04-26T20:15:19.320Z] ⚠️ Modal detected... closing
+[2026-04-26T20:15:19.413Z] 🛑 SIGINT received — closing browser
+[2026-04-26T20:15:19.626Z] ⚠️ closeModalIfPresent error (ignored): page.$: Target page, context or browser has been closed
+[2026-04-26T20:15:19.631Z] ⚠️ Error: locator.count: Target page, context or browser has been closed

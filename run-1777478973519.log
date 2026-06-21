@@ -1,0 +1,3 @@
+[2026-04-29T16:09:43.414Z] ✅ Session loaded
+[2026-04-29T16:09:49.980Z] 👉 Set your search, then press ENTER...
+[2026-04-29T16:14:22.404Z] ⚠️ ERROR: ❌ Unexpected page: https://app.apollo.io/#/companies?organizationLocations[]=New%20York%2C%20US&organizationIndustryTagIds[]=5567cd477369645401010000&page=1&sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&recommendationConfigId=69bc831072e36400011fa47f

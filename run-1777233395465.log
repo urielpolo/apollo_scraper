@@ -1,0 +1,30 @@
+[2026-04-26T19:56:37.762Z] ✅ Session loaded
+[2026-04-26T19:56:54.625Z] ⚠️ Saved session appears expired — deleting and re-authenticating
+[2026-04-26T19:56:54.628Z] 👉 Please login manually in the browser window...
+[2026-04-26T19:57:55.168Z] ✅ New session saved
+[2026-04-26T19:57:55.168Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-26T20:04:47.807Z] 
+🚀 New cycle
+[2026-04-26T20:04:47.831Z] ⚠️ Modal detected... closing
+[2026-04-26T20:04:51.832Z] ✅ Modal closed
+[2026-04-26T20:04:52.378Z] 📊 Net new before: 1
+[2026-04-26T20:04:57.317Z] ⚠️ Modal detected... closing
+[2026-04-26T20:04:59.912Z] ✅ Modal closed
+[2026-04-26T20:05:00.414Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T20:05:00.414Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T20:05:01.358Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T20:05:03.066Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T20:05:04.213Z] ✅ Clicked Apply (from dropdown)
+[2026-04-26T20:05:30.739Z] ℹ️ No "select all results" banner found — proceeding with current page selection only
+[2026-04-26T20:05:30.747Z] ☑️ Selected count: 25
+[2026-04-26T20:05:53.666Z] ❌ Could not find Export button. Export-related buttons:
+
+[2026-04-26T20:05:53.668Z] ⚠️ Error: Could not locate Export button — see log
+[2026-04-26T20:05:58.675Z] 
+🚀 New cycle
+[2026-04-26T20:05:58.909Z] ⚠️ Modal detected... closing
+[2026-04-26T20:06:00.209Z] ⌨️ Esc pressed
+[2026-04-26T20:06:00.240Z] 📊 Net new before: 1
+[2026-04-26T20:06:00.249Z] 🛑 SIGINT received — closing browser
+[2026-04-26T20:06:00.372Z] ⚠️ closeModalIfPresent error (ignored): page.$: Target page, context or browser has been closed
+[2026-04-26T20:06:00.375Z] ⚠️ Error: locator.count: Target page, context or browser has been closed

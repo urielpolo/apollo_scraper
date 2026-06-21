@@ -1,0 +1,122 @@
+[2026-04-28T08:22:28.927Z] ✅ Session loaded
+[2026-04-28T08:22:42.680Z] ⚠️ Session expired — please login again
+[2026-04-28T08:23:43.424Z] ✅ New session saved
+[2026-04-28T08:23:43.425Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-28T08:25:40.161Z] 
+🚀 New cycle
+[2026-04-28T08:25:40.185Z] ⚠️ Modal detected... closing
+[2026-04-28T08:25:41.496Z] ⌨️ Esc pressed
+[2026-04-28T08:25:41.514Z] 📊 Net new before: 216
+[2026-04-28T08:25:41.526Z] 🖱️ Clicking header checkbox...
+[2026-04-28T08:25:43.179Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T08:25:43.387Z] ✅ Select all result: radio clicked
+[2026-04-28T08:25:43.889Z] 🖱️ Clicking Apply...
+[2026-04-28T08:25:45.548Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T08:25:48.694Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-28T08:25:48.694Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T08:25:51.569Z] ✅ Clicked Export
+[2026-04-28T08:25:53.072Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-28T08:25:53.168Z] ✅ Export to CSV modal opened
+[2026-04-28T08:25:53.988Z] 🖱️ Clicking Export records...
+[2026-04-28T08:25:54.254Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-28T08:25:54.255Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-28T08:25:59.487Z] ✅ Toast appeared — now waiting for it to finish...
+[2026-04-28T08:26:04.964Z] ⏳ Still in progress... 35%
+[2026-04-28T08:26:09.988Z] ⏳ Still in progress... 60%
+[2026-04-28T08:26:14.999Z] ⏳ Still in progress... 60%
+[2026-04-28T08:26:20.019Z] ⏳ Still in progress... 60%
+[2026-04-28T08:26:25.042Z] ⏳ Still in progress... 60%
+[2026-04-28T08:26:31.758Z] ⏳ Still in progress... 75%
+[2026-04-28T08:26:36.800Z] ⏳ Still in progress... unknown %
+[2026-04-28T08:26:41.818Z] ⏳ Still in progress... unknown %
+[2026-04-28T08:26:46.836Z] ⏳ Still in progress... unknown %
+[2026-04-28T08:26:51.850Z] ⏳ Still in progress... unknown %
+[2026-04-28T08:26:57.244Z] ✅ Progress toast gone — export complete
+[2026-04-28T08:26:57.310Z] 🆕 Opening new tab: https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:27:27.561Z] ⚠️ Error: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States", waiting until "domcontentloaded"[22m
+
+[2026-04-28T08:27:32.572Z] 
+🚀 New cycle
+[2026-04-28T08:27:32.657Z] ⚠️ Modal detected... closing
+[2026-04-28T08:27:35.807Z] ⌨️ Esc pressed
+[2026-04-28T08:27:35.821Z] 📊 Net new before: 216
+[2026-04-28T08:27:35.834Z] 🖱️ Clicking header checkbox...
+[2026-04-28T08:27:38.147Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T08:27:38.170Z] ✅ Select all result: radio clicked
+[2026-04-28T08:27:38.674Z] 🖱️ Clicking Apply...
+[2026-04-28T08:27:41.196Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T08:27:44.223Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-28T08:27:44.223Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T08:28:14.320Z] ⚠️ Error: elementHandle.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is not enabled[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is not enabled[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    36 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is not enabled[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+[2026-04-28T08:28:19.328Z] 
+🚀 New cycle
+[2026-04-28T08:28:19.503Z] ⚠️ Modal detected... closing
+[2026-04-28T08:28:22.513Z] ⌨️ Esc pressed
+[2026-04-28T08:28:22.537Z] 📊 Net new before: 216
+[2026-04-28T08:28:22.558Z] 🖱️ Clicking header checkbox...
+[2026-04-28T08:28:24.113Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T08:28:24.126Z] ✅ Select all result: radio clicked
+[2026-04-28T08:28:24.630Z] 🖱️ Clicking Apply...
+[2026-04-28T08:28:25.643Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T08:28:28.702Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-28T08:28:28.702Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T08:28:58.905Z] ⚠️ Error: elementHandle.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is not enabled[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is not enabled[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    21 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is not enabled[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+[2m    - performing click action[22m
+
+[2026-04-28T08:29:03.993Z] 
+🚀 New cycle
+[2026-04-28T08:29:04.217Z] ⚠️ Modal detected... closing
+[2026-04-28T08:29:07.075Z] ✅ Modal closed
+[2026-04-28T08:29:07.122Z] 📊 Net new before: 216
+[2026-04-28T08:29:07.181Z] 🖱️ Clicking header checkbox...
+[2026-04-28T08:29:10.473Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T08:29:10.600Z] ✅ Select all result: radio clicked
+[2026-04-28T08:29:11.108Z] 🖱️ Clicking Apply...
+[2026-04-28T08:29:12.817Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T08:29:16.047Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-28T08:29:16.047Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T08:29:21.875Z] ✅ Clicked Export
+[2026-04-28T08:29:23.433Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-28T08:29:23.658Z] ✅ Export to CSV modal opened
+[2026-04-28T08:29:24.559Z] 🖱️ Clicking Export records...
+[2026-04-28T08:29:25.291Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-28T08:29:25.292Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-28T08:29:35.724Z] ✅ Toast appeared — now waiting for it to finish...
+[2026-04-28T08:29:46.928Z] ⏳ Still in progress... 35%
+[2026-04-28T08:29:47.843Z] ⚠️ Error: page.waitForTimeout: Target page, context or browser has been closed
+[2026-04-28T08:33:43.224Z] 🛑 SIGINT received — closing browser

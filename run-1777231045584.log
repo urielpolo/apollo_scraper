@@ -1,0 +1,285 @@
+[2026-04-26T19:17:31.207Z] ✅ Session loaded
+[2026-04-26T19:17:47.519Z] ⚠️ Saved session appears expired — deleting and re-authenticating
+[2026-04-26T19:17:47.524Z] 👉 Please login manually in the browser window...
+[2026-04-26T19:18:48.108Z] ✅ New session saved
+[2026-04-26T19:18:48.109Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-26T19:21:38.428Z] 
+🚀 New cycle
+[2026-04-26T19:21:38.656Z] ⚠️ Modal detected... closing
+[2026-04-26T19:21:42.566Z] ✅ Modal closed
+[2026-04-26T19:21:44.191Z] 📊 Net new before: 302
+[2026-04-26T19:21:59.277Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:22:04.362Z] 
+🚀 New cycle
+[2026-04-26T19:22:04.376Z] ⚠️ Modal detected... closing
+[2026-04-26T19:22:06.524Z] ✅ Modal closed
+[2026-04-26T19:22:06.535Z] 📊 Net new before: 302
+[2026-04-26T19:22:21.546Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:22:26.549Z] 
+🚀 New cycle
+[2026-04-26T19:22:26.563Z] ⚠️ Modal detected... closing
+[2026-04-26T19:22:27.479Z] ⌨️ Esc pressed
+[2026-04-26T19:22:27.486Z] 📊 Net new before: 302
+[2026-04-26T19:22:42.496Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:22:47.498Z] 
+🚀 New cycle
+[2026-04-26T19:22:47.507Z] ⚠️ Modal detected... closing
+[2026-04-26T19:22:48.903Z] ⌨️ Esc pressed
+[2026-04-26T19:22:48.929Z] 📊 Net new before: 302
+[2026-04-26T19:23:03.962Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:23:08.998Z] 
+🚀 New cycle
+[2026-04-26T19:23:09.019Z] ⚠️ Modal detected... closing
+[2026-04-26T19:23:10.625Z] ⌨️ Esc pressed
+[2026-04-26T19:23:10.639Z] 📊 Net new before: 302
+[2026-04-26T19:23:25.649Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:23:30.651Z] 
+🚀 New cycle
+[2026-04-26T19:23:30.664Z] ⚠️ Modal detected... closing
+[2026-04-26T19:23:32.116Z] ⌨️ Esc pressed
+[2026-04-26T19:23:32.122Z] 📊 Net new before: 302
+[2026-04-26T19:23:47.133Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:23:52.134Z] 
+🚀 New cycle
+[2026-04-26T19:23:52.148Z] ⚠️ Modal detected... closing
+[2026-04-26T19:23:53.519Z] ⌨️ Esc pressed
+[2026-04-26T19:23:53.527Z] 📊 Net new before: 302
+[2026-04-26T19:24:08.599Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:24:13.604Z] 
+🚀 New cycle
+[2026-04-26T19:24:13.616Z] ⚠️ Modal detected... closing
+[2026-04-26T19:24:14.925Z] ⌨️ Esc pressed
+[2026-04-26T19:24:14.933Z] 📊 Net new before: 302
+[2026-04-26T19:24:29.941Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:24:34.944Z] 
+🚀 New cycle
+[2026-04-26T19:24:34.954Z] ⚠️ Modal detected... closing
+[2026-04-26T19:24:36.414Z] ⌨️ Esc pressed
+[2026-04-26T19:24:36.424Z] 📊 Net new before: 302
+[2026-04-26T19:24:51.437Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:24:56.438Z] 
+🚀 New cycle
+[2026-04-26T19:24:56.457Z] ⚠️ Modal detected... closing
+[2026-04-26T19:24:58.118Z] ⌨️ Esc pressed
+[2026-04-26T19:24:58.132Z] 📊 Net new before: 302
+[2026-04-26T19:25:13.146Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:25:18.150Z] 
+🚀 New cycle
+[2026-04-26T19:25:18.158Z] ⚠️ Modal detected... closing
+[2026-04-26T19:25:19.562Z] ⌨️ Esc pressed
+[2026-04-26T19:25:19.576Z] 📊 Net new before: 302
+[2026-04-26T19:25:34.586Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:25:39.587Z] 
+🚀 New cycle
+[2026-04-26T19:25:39.598Z] ⚠️ Modal detected... closing
+[2026-04-26T19:25:41.029Z] ⌨️ Esc pressed
+[2026-04-26T19:25:41.042Z] 📊 Net new before: 302
+[2026-04-26T19:25:56.098Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:26:01.138Z] 
+🚀 New cycle
+[2026-04-26T19:26:01.148Z] ⚠️ Modal detected... closing
+[2026-04-26T19:26:03.282Z] ⌨️ Esc pressed
+[2026-04-26T19:26:03.292Z] 📊 Net new before: 302
+[2026-04-26T19:26:18.300Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:26:23.308Z] 
+🚀 New cycle
+[2026-04-26T19:26:23.352Z] ⚠️ Modal detected... closing
+[2026-04-26T19:26:24.929Z] ⌨️ Esc pressed
+[2026-04-26T19:26:24.939Z] 📊 Net new before: 302
+[2026-04-26T19:26:39.946Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:26:44.948Z] 
+🚀 New cycle
+[2026-04-26T19:26:44.960Z] ⚠️ Modal detected... closing
+[2026-04-26T19:26:46.359Z] ⌨️ Esc pressed
+[2026-04-26T19:26:46.368Z] 📊 Net new before: 302
+[2026-04-26T19:27:01.379Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:27:06.383Z] 
+🚀 New cycle
+[2026-04-26T19:27:06.400Z] ⚠️ Modal detected... closing
+[2026-04-26T19:27:07.871Z] ⌨️ Esc pressed
+[2026-04-26T19:27:07.883Z] 📊 Net new before: 302
+[2026-04-26T19:27:22.889Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:27:28.006Z] 
+🚀 New cycle
+[2026-04-26T19:27:28.023Z] ⚠️ Modal detected... closing
+[2026-04-26T19:27:30.720Z] ⌨️ Esc pressed
+[2026-04-26T19:27:30.738Z] 📊 Net new before: 302
+[2026-04-26T19:27:45.822Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:27:50.825Z] 
+🚀 New cycle
+[2026-04-26T19:27:50.842Z] ⚠️ Modal detected... closing
+[2026-04-26T19:27:52.245Z] ⌨️ Esc pressed
+[2026-04-26T19:27:52.251Z] 📊 Net new before: 302
+[2026-04-26T19:28:07.257Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:28:12.258Z] 
+🚀 New cycle
+[2026-04-26T19:28:12.268Z] ⚠️ Modal detected... closing
+[2026-04-26T19:28:15.006Z] ⌨️ Esc pressed
+[2026-04-26T19:28:15.386Z] 📊 Net new before: 302
+[2026-04-26T19:28:31.055Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:28:36.063Z] 
+🚀 New cycle
+[2026-04-26T19:28:36.074Z] ⚠️ Modal detected... closing
+[2026-04-26T19:28:37.490Z] ⌨️ Esc pressed
+[2026-04-26T19:28:37.498Z] 📊 Net new before: 302
+[2026-04-26T19:28:52.505Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:28:57.505Z] 
+🚀 New cycle
+[2026-04-26T19:28:57.517Z] ⚠️ Modal detected... closing
+[2026-04-26T19:28:59.529Z] ⌨️ Esc pressed
+[2026-04-26T19:28:59.549Z] 📊 Net new before: 302
+[2026-04-26T19:29:14.565Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:29:19.566Z] 
+🚀 New cycle
+[2026-04-26T19:29:19.574Z] ⚠️ Modal detected... closing
+[2026-04-26T19:29:21.074Z] ⌨️ Esc pressed
+[2026-04-26T19:29:21.080Z] 📊 Net new before: 302
+[2026-04-26T19:29:36.089Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:29:41.091Z] 
+🚀 New cycle
+[2026-04-26T19:29:41.101Z] ⚠️ Modal detected... closing
+[2026-04-26T19:29:42.453Z] ⌨️ Esc pressed
+[2026-04-26T19:29:42.461Z] 📊 Net new before: 302
+[2026-04-26T19:29:57.468Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:30:02.471Z] 
+🚀 New cycle
+[2026-04-26T19:30:02.505Z] ⚠️ Modal detected... closing
+[2026-04-26T19:30:03.829Z] ⌨️ Esc pressed
+[2026-04-26T19:30:03.838Z] 📊 Net new before: 302
+[2026-04-26T19:30:18.846Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:30:23.848Z] 
+🚀 New cycle
+[2026-04-26T19:30:23.862Z] ⚠️ Modal detected... closing
+[2026-04-26T19:30:25.543Z] ⌨️ Esc pressed
+[2026-04-26T19:30:25.686Z] 📊 Net new before: 302
+[2026-04-26T19:30:40.703Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:30:45.705Z] 
+🚀 New cycle
+[2026-04-26T19:30:45.717Z] ⚠️ Modal detected... closing
+[2026-04-26T19:30:47.151Z] ⌨️ Esc pressed
+[2026-04-26T19:30:47.156Z] 📊 Net new before: 302
+[2026-04-26T19:31:02.163Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:31:07.164Z] 
+🚀 New cycle
+[2026-04-26T19:31:07.233Z] ⚠️ Modal detected... closing
+[2026-04-26T19:31:08.998Z] ⌨️ Esc pressed
+[2026-04-26T19:31:09.006Z] 📊 Net new before: 302
+[2026-04-26T19:31:24.022Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:31:29.023Z] 
+🚀 New cycle
+[2026-04-26T19:31:29.039Z] ⚠️ Modal detected... closing
+[2026-04-26T19:31:30.357Z] ⌨️ Esc pressed
+[2026-04-26T19:31:30.361Z] 📊 Net new before: 302
+[2026-04-26T19:31:45.391Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:31:50.392Z] 
+🚀 New cycle
+[2026-04-26T19:31:50.413Z] ⚠️ Modal detected... closing
+[2026-04-26T19:31:51.799Z] ⌨️ Esc pressed
+[2026-04-26T19:31:51.810Z] 📊 Net new before: 302
+[2026-04-26T19:32:06.816Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:32:11.817Z] 
+🚀 New cycle
+[2026-04-26T19:32:11.829Z] ⚠️ Modal detected... closing
+[2026-04-26T19:32:13.178Z] ⌨️ Esc pressed
+[2026-04-26T19:32:13.184Z] 📊 Net new before: 302
+[2026-04-26T19:32:28.201Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:32:33.209Z] 
+🚀 New cycle
+[2026-04-26T19:32:33.284Z] ⚠️ Modal detected... closing
+[2026-04-26T19:32:38.039Z] ⌨️ Esc pressed
+[2026-04-26T19:32:38.142Z] 📊 Net new before: 302
+[2026-04-26T19:32:53.150Z] ⚠️ Error: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('table, [role="table"]') to be visible[22m
+
+[2026-04-26T19:32:53.368Z] 🛑 SIGINT received — closing browser

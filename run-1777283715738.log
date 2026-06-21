@@ -1,0 +1,71 @@
+[2026-04-27T09:55:20.156Z] ✅ Session loaded
+[2026-04-27T09:55:32.367Z] ⚠️ Session expired — please login again
+[2026-04-27T09:56:33.653Z] ✅ New session saved
+[2026-04-27T09:56:33.653Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-27T09:56:52.322Z] 🔖 Search URL: https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T09:56:52.322Z] 
+🚀 New cycle
+[2026-04-27T09:56:52.362Z] ⚠️ Modal detected... closing
+[2026-04-27T09:56:54.608Z] ⌨️ Esc pressed
+[2026-04-27T09:56:56.409Z] 📊 Net new before: 658
+[2026-04-27T09:56:56.830Z] 🖱️ Clicking header checkbox...
+[2026-04-27T09:57:04.207Z] 🖱️ Clicking "Select all" in submenu...
+[2026-04-27T09:57:04.581Z] ✅ Clicked "Select all" (fallback)
+[2026-04-27T09:57:05.083Z] 🖱️ Clicking Apply...
+[2026-04-27T09:57:10.084Z] ⚠️ Error: page.waitForSelector: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Apply")') to be visible[22m
+
+[2026-04-27T09:57:15.089Z] 
+🚀 New cycle
+[2026-04-27T09:57:15.102Z] ⚠️ Modal detected... closing
+[2026-04-27T09:57:18.158Z] ✅ Modal closed
+[2026-04-27T09:57:18.167Z] 📊 Net new before: 658
+[2026-04-27T09:57:18.173Z] 🖱️ Clicking header checkbox...
+[2026-04-27T09:57:19.179Z] 🖱️ Clicking "Select all" in submenu...
+[2026-04-27T09:57:19.422Z] ✅ Clicked "Select all" (fallback)
+[2026-04-27T09:57:19.924Z] 🖱️ Clicking Apply...
+[2026-04-27T09:57:24.926Z] ⚠️ Error: page.waitForSelector: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Apply")') to be visible[22m
+
+[2026-04-27T09:57:29.928Z] 
+🚀 New cycle
+[2026-04-27T09:57:29.942Z] ⚠️ Modal detected... closing
+[2026-04-27T09:57:31.172Z] ⌨️ Esc pressed
+[2026-04-27T09:57:31.179Z] 📊 Net new before: 658
+[2026-04-27T09:57:31.186Z] 🖱️ Clicking header checkbox...
+[2026-04-27T09:57:32.241Z] 🖱️ Clicking "Select all" in submenu...
+[2026-04-27T09:57:32.455Z] ✅ Clicked "Select all" (fallback)
+[2026-04-27T09:57:32.960Z] 🖱️ Clicking Apply...
+[2026-04-27T09:57:37.962Z] ⚠️ Error: page.waitForSelector: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Apply")') to be visible[22m
+
+[2026-04-27T09:57:42.963Z] 
+🚀 New cycle
+[2026-04-27T09:57:42.976Z] ⚠️ Modal detected... closing
+[2026-04-27T09:57:44.717Z] ⌨️ Esc pressed
+[2026-04-27T09:57:44.723Z] 📊 Net new before: 658
+[2026-04-27T09:57:44.729Z] 🖱️ Clicking header checkbox...
+[2026-04-27T09:57:45.731Z] 🖱️ Clicking "Select all" in submenu...
+[2026-04-27T09:57:45.969Z] ✅ Clicked "Select all" (fallback)
+[2026-04-27T09:57:46.471Z] 🖱️ Clicking Apply...
+[2026-04-27T09:57:51.474Z] ⚠️ Error: page.waitForSelector: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Apply")') to be visible[22m
+
+[2026-04-27T09:57:56.476Z] 
+🚀 New cycle
+[2026-04-27T09:57:56.487Z] ⚠️ Modal detected... closing
+[2026-04-27T09:57:57.734Z] ⌨️ Esc pressed
+[2026-04-27T09:57:57.745Z] 📊 Net new before: 658
+[2026-04-27T09:57:57.750Z] 🖱️ Clicking header checkbox...
+[2026-04-27T09:57:58.755Z] 🖱️ Clicking "Select all" in submenu...
+[2026-04-27T09:57:58.978Z] ✅ Clicked "Select all" (fallback)
+[2026-04-27T09:57:59.481Z] 🖱️ Clicking Apply...
+[2026-04-27T09:58:04.483Z] ⚠️ Error: page.waitForSelector: Timeout 5000ms exceeded.
+Call log:
+[2m  - waiting for locator('button:has-text("Apply")') to be visible[22m
+
+[2026-04-27T09:58:04.483Z] 🛑 Too many failures — stopping

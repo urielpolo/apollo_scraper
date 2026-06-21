@@ -1,0 +1,46 @@
+[2026-04-26T19:37:39.046Z] ✅ Session loaded
+[2026-04-26T19:37:53.853Z] ⚠️ Saved session appears expired — deleting and re-authenticating
+[2026-04-26T19:37:56.345Z] 👉 Please login manually in the browser window...
+[2026-04-26T19:38:57.357Z] ✅ New session saved
+[2026-04-26T19:38:57.387Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-26T19:40:21.215Z] 
+🚀 New cycle
+[2026-04-26T19:40:21.475Z] ⚠️ Modal detected... closing
+[2026-04-26T19:40:24.574Z] ✅ Modal closed
+[2026-04-26T19:40:24.936Z] 📊 Net new before: 302
+[2026-04-26T19:40:25.009Z] ⚠️ Modal detected... closing
+[2026-04-26T19:40:29.795Z] ✅ Modal closed
+[2026-04-26T19:40:29.825Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T19:40:29.825Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T19:40:30.772Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T19:40:32.416Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T19:40:32.729Z] ✅ Clicked "Select All"
+[2026-04-26T19:40:34.236Z] ⚠️ No rows appear selected after "Select All" — skipping cycle
+[2026-04-26T19:40:39.239Z] 
+🚀 New cycle
+[2026-04-26T19:40:39.246Z] ⚠️ Modal detected... closing
+[2026-04-26T19:40:40.667Z] ✅ Modal closed
+[2026-04-26T19:40:40.747Z] 📊 Net new before: 302
+[2026-04-26T19:40:40.758Z] ⚠️ Modal detected... closing
+[2026-04-26T19:40:41.647Z] ⌨️ Esc pressed
+[2026-04-26T19:40:41.665Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T19:40:41.665Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T19:40:42.575Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T19:40:43.598Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T19:40:43.706Z] ✅ Clicked "Select All"
+[2026-04-26T19:40:45.464Z] ⚠️ No rows appear selected after "Select All" — skipping cycle
+[2026-04-26T19:40:50.466Z] 
+🚀 New cycle
+[2026-04-26T19:40:50.478Z] ⚠️ Modal detected... closing
+[2026-04-26T19:40:51.900Z] ✅ Modal closed
+[2026-04-26T19:40:51.968Z] 📊 Net new before: 302
+[2026-04-26T19:40:51.986Z] ⚠️ Modal detected... closing
+[2026-04-26T19:40:52.863Z] ⌨️ Esc pressed
+[2026-04-26T19:40:52.908Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T19:40:52.908Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T19:40:54.039Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T19:40:55.082Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T19:40:55.205Z] ✅ Clicked "Select All"
+[2026-04-26T19:40:56.719Z] ⚠️ No rows appear selected after "Select All" — skipping cycle
+[2026-04-26T19:40:57.692Z] 🛑 SIGINT received — closing browser
+[2026-04-26T19:40:57.836Z] ⚠️ Error: page.waitForTimeout: Target page, context or browser has been closed

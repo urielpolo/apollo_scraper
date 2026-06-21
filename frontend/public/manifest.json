@@ -1,0 +1,16 @@
+{
+  "name": "Apollo Scraper",
+  "short_name": "Scraper",
+  "description": "Apollo lead scraper dashboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1d9e75",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,824 @@
+[2026-04-27T13:10:27.215Z] ✅ Session loaded
+[2026-04-27T13:10:54.413Z] ⚠️ Session expired — please login again
+[2026-04-27T13:11:54.910Z] ✅ New session saved
+[2026-04-27T13:11:54.910Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-27T13:20:24.143Z] 
+🚀 New cycle
+[2026-04-27T13:20:24.163Z] ⚠️ Modal detected... closing
+[2026-04-27T13:20:25.408Z] ⌨️ Esc pressed
+[2026-04-27T13:20:25.416Z] 📊 Net new before: 17
+[2026-04-27T13:20:25.423Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:20:26.980Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:20:27.007Z] ✅ Select all result: radio clicked
+[2026-04-27T13:20:27.511Z] 🖱️ Clicking Apply...
+[2026-04-27T13:20:28.290Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:20:31.303Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:20:31.303Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:20:32.153Z] ✅ Clicked Export
+[2026-04-27T13:20:33.654Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:20:33.685Z] ✅ Export to CSV modal opened
+[2026-04-27T13:20:34.496Z] 🖱️ Clicking Export records...
+[2026-04-27T13:20:34.643Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:20:34.651Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:20:39.867Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:20:45.111Z] ⏳ Still in progress... 70%
+[2026-04-27T13:20:50.126Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:20:55.138Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:00.143Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:05.153Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:10.162Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:15.176Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:20.187Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:25.198Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:30.211Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:35.222Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:40.232Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:45.248Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:50.258Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:21:55.266Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:22:00.393Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:22:00.399Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:22:08.516Z] ⚠️ Modal detected... closing
+[2026-04-27T13:22:10.411Z] ⌨️ Esc pressed
+[2026-04-27T13:22:10.420Z] 📉 Net new after reload: 17
+[2026-04-27T13:22:10.420Z] ⏳ Count still 17 — waiting 15s before next check
+[2026-04-27T13:22:25.422Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:22:33.541Z] ⚠️ Modal detected... closing
+[2026-04-27T13:22:34.964Z] ⌨️ Esc pressed
+[2026-04-27T13:22:34.970Z] 📉 Net new after reload: 17
+[2026-04-27T13:22:34.970Z] ⏳ Count still 17 — waiting 15s before next check
+[2026-04-27T13:22:49.972Z] 🔄 Reloading (attempt 3/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:22:58.743Z] 📉 Net new after reload: null
+[2026-04-27T13:22:58.743Z] ⚠️ Could not read count — retrying
+[2026-04-27T13:23:13.746Z] 🔄 Reloading (attempt 4/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:23:22.938Z] ⚠️ Modal detected... closing
+[2026-04-27T13:23:24.176Z] ⌨️ Esc pressed
+[2026-04-27T13:23:24.188Z] 📉 Net new after reload: 16
+[2026-04-27T13:23:24.188Z] ✅ Count dropped 17 → 16
+[2026-04-27T13:23:24.188Z] 
+🚀 New cycle
+[2026-04-27T13:23:24.194Z] ⚠️ Modal detected... closing
+[2026-04-27T13:23:25.398Z] ⌨️ Esc pressed
+[2026-04-27T13:23:25.405Z] 📊 Net new before: 16
+[2026-04-27T13:23:25.409Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:23:26.909Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:23:26.930Z] ✅ Select all result: radio clicked
+[2026-04-27T13:23:27.433Z] 🖱️ Clicking Apply...
+[2026-04-27T13:23:28.530Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:23:32.241Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:23:32.241Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:23:34.162Z] ✅ Clicked Export
+[2026-04-27T13:23:35.664Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:23:35.746Z] ✅ Export to CSV modal opened
+[2026-04-27T13:23:36.643Z] 🖱️ Clicking Export records...
+[2026-04-27T13:23:37.229Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:23:37.229Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:23:42.342Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:23:47.482Z] ⏳ Still in progress... 40%
+[2026-04-27T13:23:52.492Z] ⏳ Still in progress... 80%
+[2026-04-27T13:23:57.503Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:02.512Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:07.524Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:12.546Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:17.574Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:22.589Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:27.609Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:32.630Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:37.647Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:42.665Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:47.681Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:52.687Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:24:57.699Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:02.953Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:07.967Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:12.973Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:17.988Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:23.006Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:28.017Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:33.029Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:38.041Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:43.058Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:48.081Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:53.097Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:25:58.108Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:03.442Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:08.452Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:13.458Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:18.471Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:23.478Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:28.489Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:33.502Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:38.514Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:43.524Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:48.534Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:53.547Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:26:58.563Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:03.631Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:08.649Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:13.659Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:18.666Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:23.726Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:28.741Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:33.756Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:38.766Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:43.778Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:48.787Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:53.801Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:27:58.851Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:28:03.865Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:28:08.983Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:28:13.997Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:28:19.007Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:28:24.029Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:28:29.045Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:28:34.053Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:28:39.065Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:28:44.305Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:28:44.306Z] ⚠️ Timed out waiting for progress — continuing anyway
+[2026-04-27T13:28:44.329Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:28:52.480Z] 📉 Net new after reload: null
+[2026-04-27T13:28:52.480Z] ⚠️ Could not read count — retrying
+[2026-04-27T13:29:07.483Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:29:15.616Z] ⚠️ Modal detected... closing
+[2026-04-27T13:29:16.910Z] ⌨️ Esc pressed
+[2026-04-27T13:29:16.918Z] 📉 Net new after reload: 15
+[2026-04-27T13:29:16.918Z] ✅ Count dropped 16 → 15
+[2026-04-27T13:29:16.918Z] 
+🚀 New cycle
+[2026-04-27T13:29:16.925Z] ⚠️ Modal detected... closing
+[2026-04-27T13:29:18.127Z] ⌨️ Esc pressed
+[2026-04-27T13:29:18.137Z] 📊 Net new before: 15
+[2026-04-27T13:29:18.143Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:29:19.660Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:29:19.690Z] ✅ Select all result: radio clicked
+[2026-04-27T13:29:20.192Z] 🖱️ Clicking Apply...
+[2026-04-27T13:29:20.984Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:29:24.000Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:29:24.001Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:29:24.868Z] ✅ Clicked Export
+[2026-04-27T13:29:26.373Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:29:26.402Z] ✅ Export to CSV modal opened
+[2026-04-27T13:29:27.207Z] 🖱️ Clicking Export records...
+[2026-04-27T13:29:27.418Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:29:27.418Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:29:33.811Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:29:39.121Z] ⏳ Still in progress... 95%
+[2026-04-27T13:29:44.286Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:29:49.297Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:29:49.307Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:30:00.135Z] ⚠️ Modal detected... closing
+[2026-04-27T13:30:07.274Z] ⌨️ Esc pressed
+[2026-04-27T13:30:07.716Z] 📉 Net new after reload: 14
+[2026-04-27T13:30:07.716Z] ✅ Count dropped 15 → 14
+[2026-04-27T13:30:07.716Z] 
+🚀 New cycle
+[2026-04-27T13:30:07.838Z] ⚠️ Modal detected... closing
+[2026-04-27T13:30:09.183Z] ⌨️ Esc pressed
+[2026-04-27T13:30:09.192Z] 📊 Net new before: 14
+[2026-04-27T13:30:09.196Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:30:10.890Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:30:10.912Z] ✅ Select all result: radio clicked
+[2026-04-27T13:30:11.414Z] 🖱️ Clicking Apply...
+[2026-04-27T13:30:12.321Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:30:15.333Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:30:15.335Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:30:16.278Z] ✅ Clicked Export
+[2026-04-27T13:30:17.780Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:30:17.814Z] ✅ Export to CSV modal opened
+[2026-04-27T13:30:18.633Z] 🖱️ Clicking Export records...
+[2026-04-27T13:30:18.829Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:30:18.829Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:30:24.875Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:30:29.884Z] ⏳ Still in progress... 25%
+[2026-04-27T13:30:34.896Z] ⏳ Still in progress... 45%
+[2026-04-27T13:30:39.908Z] ⏳ Still in progress... 60%
+[2026-04-27T13:30:44.921Z] ⏳ Still in progress... 80%
+[2026-04-27T13:30:49.930Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:30:58.586Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:30:58.673Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:31:10.494Z] ⚠️ Modal detected... closing
+[2026-04-27T13:31:13.562Z] ⌨️ Esc pressed
+[2026-04-27T13:31:13.571Z] 📉 Net new after reload: 13
+[2026-04-27T13:31:13.572Z] ✅ Count dropped 14 → 13
+[2026-04-27T13:31:13.572Z] 
+🚀 New cycle
+[2026-04-27T13:31:13.580Z] ⚠️ Modal detected... closing
+[2026-04-27T13:31:14.829Z] ⌨️ Esc pressed
+[2026-04-27T13:31:14.839Z] 📊 Net new before: 13
+[2026-04-27T13:31:14.843Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:31:16.440Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:31:16.463Z] ✅ Select all result: radio clicked
+[2026-04-27T13:31:16.964Z] 🖱️ Clicking Apply...
+[2026-04-27T13:31:17.837Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:31:20.850Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:31:20.850Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:31:22.517Z] ✅ Clicked Export
+[2026-04-27T13:31:24.018Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:31:24.088Z] ✅ Export to CSV modal opened
+[2026-04-27T13:31:24.903Z] 🖱️ Clicking Export records...
+[2026-04-27T13:31:25.111Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:31:25.111Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:31:31.954Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:31:36.969Z] ⏳ Still in progress... 50%
+[2026-04-27T13:31:41.974Z] ⏳ Still in progress... 50%
+[2026-04-27T13:31:46.991Z] ⏳ Still in progress... 55%
+[2026-04-27T13:31:52.005Z] ⏳ Still in progress... 60%
+[2026-04-27T13:31:57.016Z] ⏳ Still in progress... 65%
+[2026-04-27T13:32:02.043Z] ⏳ Still in progress... 70%
+[2026-04-27T13:32:07.144Z] ⏳ Still in progress... 80%
+[2026-04-27T13:32:12.160Z] ⏳ Still in progress... 90%
+[2026-04-27T13:32:17.176Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:32:25.764Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:32:25.827Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:32:37.203Z] ⚠️ Modal detected... closing
+[2026-04-27T13:32:39.821Z] ⌨️ Esc pressed
+[2026-04-27T13:32:39.830Z] 📉 Net new after reload: 12
+[2026-04-27T13:32:39.830Z] ✅ Count dropped 13 → 12
+[2026-04-27T13:32:39.830Z] 
+🚀 New cycle
+[2026-04-27T13:32:39.837Z] ⚠️ Modal detected... closing
+[2026-04-27T13:32:41.203Z] ⌨️ Esc pressed
+[2026-04-27T13:32:41.211Z] 📊 Net new before: 12
+[2026-04-27T13:32:41.216Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:32:42.934Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:32:42.960Z] ✅ Select all result: radio clicked
+[2026-04-27T13:32:43.463Z] 🖱️ Clicking Apply...
+[2026-04-27T13:32:44.172Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:32:47.189Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:32:47.189Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:32:47.922Z] ✅ Clicked Export
+[2026-04-27T13:32:49.425Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:32:49.490Z] ✅ Export to CSV modal opened
+[2026-04-27T13:32:50.296Z] 🖱️ Clicking Export records...
+[2026-04-27T13:32:50.479Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:32:50.479Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:32:55.732Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:33:00.747Z] ⏳ Still in progress... 45%
+[2026-04-27T13:33:05.759Z] ⏳ Still in progress... 75%
+[2026-04-27T13:33:10.767Z] ⏳ Still in progress... 0%
+[2026-04-27T13:33:15.784Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:33:15.793Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:33:27.371Z] ⚠️ Modal detected... closing
+[2026-04-27T13:33:31.606Z] ⌨️ Esc pressed
+[2026-04-27T13:33:31.619Z] 📉 Net new after reload: 11
+[2026-04-27T13:33:31.619Z] ✅ Count dropped 12 → 11
+[2026-04-27T13:33:31.619Z] 
+🚀 New cycle
+[2026-04-27T13:33:31.626Z] ⚠️ Modal detected... closing
+[2026-04-27T13:33:33.676Z] ⌨️ Esc pressed
+[2026-04-27T13:33:33.684Z] 📊 Net new before: 11
+[2026-04-27T13:33:33.699Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:33:35.345Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:33:35.365Z] ✅ Select all result: radio clicked
+[2026-04-27T13:33:35.868Z] 🖱️ Clicking Apply...
+[2026-04-27T13:33:36.708Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:33:39.717Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:33:39.717Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:33:40.602Z] ✅ Clicked Export
+[2026-04-27T13:33:42.103Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:33:42.135Z] ✅ Export to CSV modal opened
+[2026-04-27T13:33:42.950Z] 🖱️ Clicking Export records...
+[2026-04-27T13:33:43.127Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:33:43.127Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:33:48.789Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:33:53.851Z] ⏳ Still in progress... 85%
+[2026-04-27T13:33:58.887Z] ⏳ Still in progress... 0%
+[2026-04-27T13:34:04.623Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:34:04.643Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:34:14.928Z] ⚠️ Modal detected... closing
+[2026-04-27T13:34:17.681Z] ⌨️ Esc pressed
+[2026-04-27T13:34:17.690Z] 📉 Net new after reload: 10
+[2026-04-27T13:34:17.690Z] ✅ Count dropped 11 → 10
+[2026-04-27T13:34:17.690Z] 
+🚀 New cycle
+[2026-04-27T13:34:17.697Z] ⚠️ Modal detected... closing
+[2026-04-27T13:34:18.899Z] ⌨️ Esc pressed
+[2026-04-27T13:34:18.909Z] 📊 Net new before: 10
+[2026-04-27T13:34:18.914Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:34:20.437Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:34:20.458Z] ✅ Select all result: radio clicked
+[2026-04-27T13:34:20.960Z] 🖱️ Clicking Apply...
+[2026-04-27T13:34:21.737Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:34:24.743Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:34:24.743Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:34:25.755Z] ✅ Clicked Export
+[2026-04-27T13:34:27.259Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:34:27.341Z] ✅ Export to CSV modal opened
+[2026-04-27T13:34:28.151Z] 🖱️ Clicking Export records...
+[2026-04-27T13:34:28.345Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:34:28.345Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:34:33.761Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:34:40.231Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:34:45.242Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:34:52.909Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:34:52.962Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:35:06.335Z] ⚠️ Modal detected... closing
+[2026-04-27T13:35:09.268Z] ⌨️ Esc pressed
+[2026-04-27T13:35:09.274Z] 📉 Net new after reload: 9
+[2026-04-27T13:35:09.274Z] ✅ Count dropped 10 → 9
+[2026-04-27T13:35:09.274Z] 
+🚀 New cycle
+[2026-04-27T13:35:09.280Z] ⚠️ Modal detected... closing
+[2026-04-27T13:35:10.412Z] ⌨️ Esc pressed
+[2026-04-27T13:35:10.421Z] 📊 Net new before: 9
+[2026-04-27T13:35:10.427Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:35:11.986Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:35:12.059Z] ✅ Select all result: radio clicked
+[2026-04-27T13:35:12.564Z] 🖱️ Clicking Apply...
+[2026-04-27T13:35:13.432Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:35:16.445Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:35:16.445Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:35:17.337Z] ✅ Clicked Export
+[2026-04-27T13:35:18.846Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:35:18.879Z] ✅ Export to CSV modal opened
+[2026-04-27T13:35:19.688Z] 🖱️ Clicking Export records...
+[2026-04-27T13:35:19.852Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:35:19.852Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:35:24.870Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:35:30.638Z] ⏳ Still in progress... 60%
+[2026-04-27T13:35:35.645Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:35:40.662Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:35:45.678Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:35:50.688Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:35:55.706Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:00.713Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:05.724Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:10.746Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:15.758Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:20.769Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:25.791Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:30.799Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:35.805Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:40.822Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:45.835Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:50.857Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:36:55.879Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:00.891Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:06.645Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:11.654Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:16.664Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:21.672Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:26.681Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:31.698Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:36.711Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:41.728Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:46.744Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:51.767Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:37:56.775Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:01.869Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:06.876Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:11.887Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:16.899Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:21.921Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:27.051Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:32.065Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:37.077Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:42.099Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:47.113Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:52.124Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:38:57.133Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:02.169Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:07.191Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:12.204Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:17.233Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:22.244Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:27.251Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:32.277Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:37.289Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:42.298Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:47.307Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:52.318Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:39:57.324Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:40:02.339Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:40:07.355Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:40:12.360Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:40:17.370Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:40:22.380Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:40:27.389Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:40:27.389Z] ⚠️ Timed out waiting for progress — continuing anyway
+[2026-04-27T13:40:27.393Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:40:35.510Z] ⚠️ Modal detected... closing
+[2026-04-27T13:40:38.242Z] ⌨️ Esc pressed
+[2026-04-27T13:40:38.252Z] 📉 Net new after reload: 9
+[2026-04-27T13:40:38.252Z] ⏳ Count still 9 — waiting 15s before next check
+[2026-04-27T13:40:53.254Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:41:01.382Z] ⚠️ Modal detected... closing
+[2026-04-27T13:41:03.286Z] ⌨️ Esc pressed
+[2026-04-27T13:41:03.292Z] 📉 Net new after reload: 9
+[2026-04-27T13:41:03.292Z] ⏳ Count still 9 — waiting 15s before next check
+[2026-04-27T13:41:18.296Z] 🔄 Reloading (attempt 3/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:41:26.429Z] ⚠️ Modal detected... closing
+[2026-04-27T13:41:27.637Z] ⌨️ Esc pressed
+[2026-04-27T13:41:27.647Z] 📉 Net new after reload: 9
+[2026-04-27T13:41:27.647Z] ⏳ Count still 9 — waiting 15s before next check
+[2026-04-27T13:41:42.649Z] 🔄 Reloading (attempt 4/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:41:50.766Z] ⚠️ Modal detected... closing
+[2026-04-27T13:41:52.040Z] ⌨️ Esc pressed
+[2026-04-27T13:41:52.048Z] 📉 Net new after reload: 9
+[2026-04-27T13:41:52.049Z] ⏳ Count still 9 — waiting 15s before next check
+[2026-04-27T13:42:07.050Z] 🔄 Reloading (attempt 5/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:42:15.188Z] ⚠️ Modal detected... closing
+[2026-04-27T13:42:16.469Z] ⌨️ Esc pressed
+[2026-04-27T13:42:16.475Z] 📉 Net new after reload: 9
+[2026-04-27T13:42:16.475Z] ⏳ Count still 9 — waiting 15s before next check
+[2026-04-27T13:42:31.478Z] 🔄 Reloading (attempt 6/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:42:39.584Z] ⚠️ Modal detected... closing
+[2026-04-27T13:42:40.807Z] ⌨️ Esc pressed
+[2026-04-27T13:42:40.826Z] 📉 Net new after reload: 9
+[2026-04-27T13:42:40.829Z] ⏳ Count still 9 — waiting 15s before next check
+[2026-04-27T13:42:40.829Z] ⚠️ Count never dropped — continuing to next cycle anyway
+[2026-04-27T13:42:40.829Z] 
+🚀 New cycle
+[2026-04-27T13:42:40.838Z] ⚠️ Modal detected... closing
+[2026-04-27T13:42:42.249Z] ⌨️ Esc pressed
+[2026-04-27T13:42:42.258Z] 📊 Net new before: 9
+[2026-04-27T13:42:42.267Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:42:44.137Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:42:44.143Z] ✅ Select all result: radio clicked
+[2026-04-27T13:42:44.645Z] 🖱️ Clicking Apply...
+[2026-04-27T13:42:45.539Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:42:48.555Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:42:48.555Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:42:49.515Z] ✅ Clicked Export
+[2026-04-27T13:42:51.022Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:42:51.053Z] ✅ Export to CSV modal opened
+[2026-04-27T13:42:51.859Z] 🖱️ Clicking Export records...
+[2026-04-27T13:42:52.064Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:42:52.065Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:42:52.071Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:42:57.505Z] ⏳ Still in progress... 30%
+[2026-04-27T13:43:02.792Z] ⏳ Still in progress... 90%
+[2026-04-27T13:43:07.807Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:43:12.866Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:43:17.871Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:43:22.878Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:43:27.893Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:43:32.909Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:43:37.918Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:43:42.928Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:43:47.943Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:43:52.962Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:43:57.977Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:02.988Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:07.997Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:13.013Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:18.022Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:23.038Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:28.047Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:33.058Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:38.066Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:43.075Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:48.082Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:53.093Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:44:58.119Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:03.149Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:08.241Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:13.264Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:18.277Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:23.295Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:28.312Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:33.322Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:38.339Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:43.356Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:48.363Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:53.373Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:45:58.378Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:03.386Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:08.392Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:13.409Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:18.418Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:23.425Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:28.439Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:33.474Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:38.486Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:43.493Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:48.503Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:53.515Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:46:58.527Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:47:03.532Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:47:08.546Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:47:13.554Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:47:18.564Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:47:23.572Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:47:28.579Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:47:33.588Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:47:38.601Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:47:43.616Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:47:48.938Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:47:49.053Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:47:57.208Z] 📉 Net new after reload: null
+[2026-04-27T13:47:57.209Z] ⚠️ Could not read count — retrying
+[2026-04-27T13:48:12.211Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:48:20.658Z] ⚠️ Modal detected... closing
+[2026-04-27T13:48:21.953Z] ⌨️ Esc pressed
+[2026-04-27T13:48:21.962Z] 📉 Net new after reload: 7
+[2026-04-27T13:48:21.962Z] ✅ Count dropped 9 → 7
+[2026-04-27T13:48:21.962Z] 
+🚀 New cycle
+[2026-04-27T13:48:21.970Z] ⚠️ Modal detected... closing
+[2026-04-27T13:48:23.233Z] ⌨️ Esc pressed
+[2026-04-27T13:48:23.243Z] 📊 Net new before: 7
+[2026-04-27T13:48:23.249Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:48:24.798Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:48:24.823Z] ✅ Select all result: radio clicked
+[2026-04-27T13:48:25.326Z] 🖱️ Clicking Apply...
+[2026-04-27T13:48:26.244Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:48:29.259Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:48:29.259Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:48:30.057Z] ✅ Clicked Export
+[2026-04-27T13:48:31.558Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:48:31.592Z] ✅ Export to CSV modal opened
+[2026-04-27T13:48:32.406Z] 🖱️ Clicking Export records...
+[2026-04-27T13:48:32.617Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:48:32.617Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:48:38.545Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:48:43.616Z] ⏳ Still in progress... 55%
+[2026-04-27T13:48:48.683Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:48:53.732Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:48:53.801Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:49:06.644Z] ⚠️ Modal detected... closing
+[2026-04-27T13:49:14.084Z] ⌨️ Esc pressed
+[2026-04-27T13:49:15.427Z] 📉 Net new after reload: 6
+[2026-04-27T13:49:15.427Z] ✅ Count dropped 7 → 6
+[2026-04-27T13:49:15.427Z] 
+🚀 New cycle
+[2026-04-27T13:49:15.881Z] ⚠️ Modal detected... closing
+[2026-04-27T13:49:17.159Z] ⌨️ Esc pressed
+[2026-04-27T13:49:17.169Z] 📊 Net new before: 6
+[2026-04-27T13:49:17.174Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:49:18.753Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:49:18.776Z] ✅ Select all result: radio clicked
+[2026-04-27T13:49:19.278Z] 🖱️ Clicking Apply...
+[2026-04-27T13:49:20.095Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:49:23.110Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:49:23.110Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:49:23.887Z] ✅ Clicked Export
+[2026-04-27T13:49:25.387Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:49:25.419Z] ✅ Export to CSV modal opened
+[2026-04-27T13:49:26.227Z] 🖱️ Clicking Export records...
+[2026-04-27T13:49:26.394Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:49:26.394Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:49:31.411Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:49:36.541Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:49:41.549Z] ⏳ Still in progress... 5%
+[2026-04-27T13:49:46.562Z] ⏳ Still in progress... 15%
+[2026-04-27T13:49:51.622Z] ⏳ Still in progress... 30%
+[2026-04-27T13:49:56.633Z] ⏳ Still in progress... 55%
+[2026-04-27T13:50:01.858Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:50:06.874Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:50:06.881Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:50:15.165Z] 📉 Net new after reload: null
+[2026-04-27T13:50:15.165Z] ⚠️ Could not read count — retrying
+[2026-04-27T13:50:30.166Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:50:38.398Z] ⚠️ Modal detected... closing
+[2026-04-27T13:50:40.635Z] ⌨️ Esc pressed
+[2026-04-27T13:50:40.643Z] 📉 Net new after reload: 5
+[2026-04-27T13:50:40.643Z] ✅ Count dropped 6 → 5
+[2026-04-27T13:50:40.643Z] 
+🚀 New cycle
+[2026-04-27T13:50:40.650Z] ⚠️ Modal detected... closing
+[2026-04-27T13:50:41.852Z] ⌨️ Esc pressed
+[2026-04-27T13:50:41.864Z] 📊 Net new before: 5
+[2026-04-27T13:50:41.869Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:50:43.416Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:50:43.439Z] ✅ Select all result: radio clicked
+[2026-04-27T13:50:43.941Z] 🖱️ Clicking Apply...
+[2026-04-27T13:50:44.654Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:50:47.679Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:50:47.679Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:50:48.551Z] ✅ Clicked Export
+[2026-04-27T13:50:50.053Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:50:50.098Z] ✅ Export to CSV modal opened
+[2026-04-27T13:50:50.906Z] 🖱️ Clicking Export records...
+[2026-04-27T13:50:51.099Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:50:51.099Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:50:56.295Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:51:02.072Z] ⏳ Still in progress... 45%
+[2026-04-27T13:51:07.086Z] ⏳ Still in progress... 60%
+[2026-04-27T13:51:12.095Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:51:17.103Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:51:23.166Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:51:23.200Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:51:34.532Z] ⚠️ Modal detected... closing
+[2026-04-27T13:51:38.817Z] ⌨️ Esc pressed
+[2026-04-27T13:51:38.829Z] 📉 Net new after reload: 4
+[2026-04-27T13:51:38.829Z] ✅ Count dropped 5 → 4
+[2026-04-27T13:51:38.829Z] 
+🚀 New cycle
+[2026-04-27T13:51:38.837Z] ⚠️ Modal detected... closing
+[2026-04-27T13:51:39.984Z] ⌨️ Esc pressed
+[2026-04-27T13:51:39.995Z] 📊 Net new before: 4
+[2026-04-27T13:51:40.000Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:51:41.546Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:51:41.567Z] ✅ Select all result: radio clicked
+[2026-04-27T13:51:42.068Z] 🖱️ Clicking Apply...
+[2026-04-27T13:51:42.874Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:51:45.884Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:51:45.884Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:51:46.635Z] ✅ Clicked Export
+[2026-04-27T13:51:48.137Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:51:48.168Z] ✅ Export to CSV modal opened
+[2026-04-27T13:51:48.982Z] 🖱️ Clicking Export records...
+[2026-04-27T13:51:49.218Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:51:49.218Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:51:54.351Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:51:59.535Z] ⏳ Still in progress... 90%
+[2026-04-27T13:52:04.636Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:52:04.652Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:52:13.610Z] ⚠️ Modal detected... closing
+[2026-04-27T13:52:16.153Z] ⌨️ Esc pressed
+[2026-04-27T13:52:16.693Z] 📉 Net new after reload: null
+[2026-04-27T13:52:16.693Z] ⚠️ Could not read count — retrying
+[2026-04-27T13:52:31.694Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:52:39.823Z] ⚠️ Modal detected... closing
+[2026-04-27T13:52:41.808Z] ⌨️ Esc pressed
+[2026-04-27T13:52:41.818Z] 📉 Net new after reload: 3
+[2026-04-27T13:52:41.818Z] ✅ Count dropped 4 → 3
+[2026-04-27T13:52:41.818Z] 
+🚀 New cycle
+[2026-04-27T13:52:41.825Z] ⚠️ Modal detected... closing
+[2026-04-27T13:52:43.087Z] ⌨️ Esc pressed
+[2026-04-27T13:52:43.096Z] 📊 Net new before: 3
+[2026-04-27T13:52:43.100Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:52:44.648Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:52:44.670Z] ✅ Select all result: radio clicked
+[2026-04-27T13:52:45.170Z] 🖱️ Clicking Apply...
+[2026-04-27T13:52:46.096Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:52:49.107Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:52:49.108Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:52:49.981Z] ✅ Clicked Export
+[2026-04-27T13:52:51.483Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:52:51.512Z] ✅ Export to CSV modal opened
+[2026-04-27T13:52:52.323Z] 🖱️ Clicking Export records...
+[2026-04-27T13:52:52.488Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:52:52.488Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:52:57.499Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:53:02.522Z] ⏳ Still in progress... 5%
+[2026-04-27T13:53:07.531Z] ⏳ Still in progress... 15%
+[2026-04-27T13:53:12.539Z] ⏳ Still in progress... 35%
+[2026-04-27T13:53:17.548Z] ⏳ Still in progress... 50%
+[2026-04-27T13:53:22.555Z] ⏳ Still in progress... 65%
+[2026-04-27T13:53:27.703Z] ⏳ Still in progress... 95%
+[2026-04-27T13:53:32.720Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:53:32.726Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:53:42.441Z] 📉 Net new after reload: null
+[2026-04-27T13:53:42.441Z] ⚠️ Could not read count — retrying
+[2026-04-27T13:53:57.444Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:54:05.583Z] ⚠️ Modal detected... closing
+[2026-04-27T13:54:06.774Z] ⌨️ Esc pressed
+[2026-04-27T13:54:06.822Z] 📉 Net new after reload: 2
+[2026-04-27T13:54:06.822Z] ✅ Count dropped 3 → 2
+[2026-04-27T13:54:06.822Z] 
+🚀 New cycle
+[2026-04-27T13:54:06.831Z] ⚠️ Modal detected... closing
+[2026-04-27T13:54:07.999Z] ⌨️ Esc pressed
+[2026-04-27T13:54:08.010Z] 📊 Net new before: 2
+[2026-04-27T13:54:08.015Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:54:09.584Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:54:09.605Z] ✅ Select all result: radio clicked
+[2026-04-27T13:54:10.107Z] 🖱️ Clicking Apply...
+[2026-04-27T13:54:11.515Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:54:14.526Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T13:54:14.526Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:54:15.337Z] ✅ Clicked Export
+[2026-04-27T13:54:16.838Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T13:54:16.871Z] ✅ Export to CSV modal opened
+[2026-04-27T13:54:17.683Z] 🖱️ Clicking Export records...
+[2026-04-27T13:54:17.871Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-27T13:54:17.871Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-27T13:54:23.130Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-27T13:54:28.143Z] ⏳ Still in progress... 65%
+[2026-04-27T13:54:33.156Z] ⏳ Still in progress... unknown %
+[2026-04-27T13:54:38.167Z] ✅ Progress toast gone — export complete
+[2026-04-27T13:54:38.173Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:54:46.972Z] ⚠️ Modal detected... closing
+[2026-04-27T13:54:47.857Z] ⌨️ Esc pressed
+[2026-04-27T13:54:47.906Z] 📉 Net new after reload: null
+[2026-04-27T13:54:47.906Z] ⚠️ Could not read count — retrying
+[2026-04-27T13:55:02.908Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:55:11.099Z] ⚠️ Modal detected... closing
+[2026-04-27T13:55:12.438Z] ⌨️ Esc pressed
+[2026-04-27T13:55:12.449Z] 📉 Net new after reload: 965
+[2026-04-27T13:55:12.449Z] ⏳ Count still 965 — waiting 15s before next check
+[2026-04-27T13:55:27.455Z] 🔄 Reloading (attempt 3/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:55:39.825Z] ⚠️ Modal detected... closing
+[2026-04-27T13:55:41.117Z] ⌨️ Esc pressed
+[2026-04-27T13:55:41.127Z] 📉 Net new after reload: 965
+[2026-04-27T13:55:41.127Z] ⏳ Count still 965 — waiting 15s before next check
+[2026-04-27T13:55:56.129Z] 🔄 Reloading (attempt 4/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:56:04.261Z] ⚠️ Modal detected... closing
+[2026-04-27T13:56:05.980Z] ⌨️ Esc pressed
+[2026-04-27T13:56:05.990Z] 📉 Net new after reload: 965
+[2026-04-27T13:56:05.990Z] ⏳ Count still 965 — waiting 15s before next check
+[2026-04-27T13:56:20.996Z] 🔄 Reloading (attempt 5/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:56:29.687Z] ⚠️ Modal detected... closing
+[2026-04-27T13:56:31.317Z] ⌨️ Esc pressed
+[2026-04-27T13:56:31.327Z] 📉 Net new after reload: 965
+[2026-04-27T13:56:31.327Z] ⏳ Count still 965 — waiting 15s before next check
+[2026-04-27T13:56:46.329Z] 🔄 Reloading (attempt 6/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T13:56:54.441Z] ⚠️ Modal detected... closing
+[2026-04-27T13:56:56.265Z] ⌨️ Esc pressed
+[2026-04-27T13:56:56.393Z] 📉 Net new after reload: 965
+[2026-04-27T13:56:56.394Z] ⏳ Count still 965 — waiting 15s before next check
+[2026-04-27T13:56:56.394Z] ⚠️ Count never dropped — continuing to next cycle anyway
+[2026-04-27T13:56:56.394Z] 
+🚀 New cycle
+[2026-04-27T13:56:56.465Z] ⚠️ Modal detected... closing
+[2026-04-27T13:56:58.090Z] ⌨️ Esc pressed
+[2026-04-27T13:56:58.104Z] 📊 Net new before: 965
+[2026-04-27T13:56:58.115Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:57:00.122Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:57:00.141Z] ✅ Select all result: radio clicked
+[2026-04-27T13:57:00.643Z] 🖱️ Clicking Apply...
+[2026-04-27T13:57:03.137Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:57:06.146Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-27T13:57:06.147Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:57:06.161Z] ❌ Export not found. Buttons: Manage billing | AI Assistant | JC | Import | Copy of Default view | Hide Filters
+2 | Research with AI | Create workflow | Save search | Companies Auto-Score | Search settings | Total
+29.9K | Net New
+965 | Saved
+28.9K | 1 | Clear filters
+2 | More Filters | Name | Actions | Links | Number of employees | Qualify Account | Industries | Keywords | Location | Fit Score 4090 0426200536 | Add column | Bugge Plumbing Inc | Save | Click to run | Fair
+12 | Construction | Bryan, Texas | Austen Plumbing Company | Bastrop, Texas | Ace Tile Etc | El Paso, Texas | Corbel Custom Homes Inc | Houston, Texas | Zentrix Construction | Haltom City, Texas | HOLT EXCAVATING SAND & GRAVEL, LLC | Grand Prairie, Texas | Activate Electric | Spring, Texas | AMERY CONSTRUCTION, INC. | Leftamo Construction | Frisco, Texas | Underdogs Roofing & Remodeling | Ballinger, Texas | Gary Wallace Inc | Denton, Texas | Prime Landscaping LLC | landscape | Helotes, Texas | Monarch Medical Center Apartments | Seal Tite Spray Foam | Victoria, Texas | Clay’s Lawn & Fencing | Tyler, Texas | HOUSTON-PPF, LLC | Island Artistry Tile & Stone | Burton, Texas | Xpert Construction Inc | Josh Smith Construction Consulting | Forney, Texas | BlueBreck | R Moss Plumbing and Heating | Bedford, Texas | Wired Up Houston | Crosby, Texas | Silverback Septic Solutions | El Campo, Texas | RYAN CONSTRUCTION AND REMODELING, LLC | J & L Paint And Repair | Burleson, Texas | ? | All searches | Your searches | Starred | Assigned to you | Shared | Default viewSystem | My enrichable companiesSystem | All enrichable companiesSystem | Create saved search | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39
+[2026-04-27T13:57:06.162Z] ⚠️ Error: Could not find Export button
+[2026-04-27T13:57:11.167Z] 
+🚀 New cycle
+[2026-04-27T13:57:11.182Z] ⚠️ Modal detected... closing
+[2026-04-27T13:57:12.888Z] ⌨️ Esc pressed
+[2026-04-27T13:57:12.896Z] 📊 Net new before: 965
+[2026-04-27T13:57:12.904Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:57:14.476Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:57:14.481Z] ✅ Select all result: radio clicked
+[2026-04-27T13:57:14.999Z] 🖱️ Clicking Apply...
+[2026-04-27T13:57:16.544Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:57:19.553Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-27T13:57:19.554Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:57:19.567Z] ❌ Export not found. Buttons: Manage billing | AI Assistant | JC | Import | Copy of Default view | Hide Filters
+2 | Research with AI | Create workflow | Save search | Companies Auto-Score | Search settings | Total
+29.9K | Net New
+965 | Saved
+28.9K | 1 | Clear filters
+2 | More Filters | Name | Actions | Links | Number of employees | Qualify Account | Industries | Keywords | Location | Fit Score 4090 0426200536 | Add column | Bugge Plumbing Inc | Save | Click to run | Fair
+12 | Construction | Bryan, Texas | Austen Plumbing Company | Bastrop, Texas | Ace Tile Etc | El Paso, Texas | Corbel Custom Homes Inc | Houston, Texas | Zentrix Construction | Haltom City, Texas | HOLT EXCAVATING SAND & GRAVEL, LLC | Grand Prairie, Texas | Activate Electric | Spring, Texas | AMERY CONSTRUCTION, INC. | Leftamo Construction | Frisco, Texas | Underdogs Roofing & Remodeling | Ballinger, Texas | Gary Wallace Inc | Denton, Texas | Prime Landscaping LLC | landscape | Helotes, Texas | Monarch Medical Center Apartments | Seal Tite Spray Foam | Victoria, Texas | Clay’s Lawn & Fencing | Tyler, Texas | HOUSTON-PPF, LLC | Island Artistry Tile & Stone | Burton, Texas | Xpert Construction Inc | Josh Smith Construction Consulting | Forney, Texas | BlueBreck | R Moss Plumbing and Heating | Bedford, Texas | Wired Up Houston | Crosby, Texas | Silverback Septic Solutions | El Campo, Texas | RYAN CONSTRUCTION AND REMODELING, LLC | J & L Paint And Repair | Burleson, Texas | ? | All searches | Your searches | Starred | Assigned to you | Shared | Default viewSystem | My enrichable companiesSystem | All enrichable companiesSystem | Create saved search | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39
+[2026-04-27T13:57:19.567Z] ⚠️ Error: Could not find Export button
+[2026-04-27T13:57:24.569Z] 
+🚀 New cycle
+[2026-04-27T13:57:24.584Z] ⚠️ Modal detected... closing
+[2026-04-27T13:57:25.710Z] ⌨️ Esc pressed
+[2026-04-27T13:57:25.719Z] 📊 Net new before: 965
+[2026-04-27T13:57:25.725Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:57:26.933Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:57:26.940Z] ✅ Select all result: radio clicked
+[2026-04-27T13:57:27.442Z] 🖱️ Clicking Apply...
+[2026-04-27T13:57:28.431Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:57:31.445Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-27T13:57:31.445Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:57:31.453Z] ❌ Export not found. Buttons: Manage billing | AI Assistant | JC | Import | Copy of Default view | Hide Filters
+2 | Research with AI | Create workflow | Save search | Companies Auto-Score | Search settings | Total
+29.9K | Net New
+965 | Saved
+28.9K | 1 | Clear filters
+2 | More Filters | Name | Actions | Links | Number of employees | Qualify Account | Industries | Keywords | Location | Fit Score 4090 0426200536 | Add column | Bugge Plumbing Inc | Save | Click to run | Fair
+12 | Construction | Bryan, Texas | Austen Plumbing Company | Bastrop, Texas | Ace Tile Etc | El Paso, Texas | Corbel Custom Homes Inc | Houston, Texas | Zentrix Construction | Haltom City, Texas | HOLT EXCAVATING SAND & GRAVEL, LLC | Grand Prairie, Texas | Activate Electric | Spring, Texas | AMERY CONSTRUCTION, INC. | Leftamo Construction | Frisco, Texas | Underdogs Roofing & Remodeling | Ballinger, Texas | Gary Wallace Inc | Denton, Texas | Prime Landscaping LLC | landscape | Helotes, Texas | Monarch Medical Center Apartments | Seal Tite Spray Foam | Victoria, Texas | Clay’s Lawn & Fencing | Tyler, Texas | HOUSTON-PPF, LLC | Island Artistry Tile & Stone | Burton, Texas | Xpert Construction Inc | Josh Smith Construction Consulting | Forney, Texas | BlueBreck | R Moss Plumbing and Heating | Bedford, Texas | Wired Up Houston | Crosby, Texas | Silverback Septic Solutions | El Campo, Texas | RYAN CONSTRUCTION AND REMODELING, LLC | J & L Paint And Repair | Burleson, Texas | ? | All searches | Your searches | Starred | Assigned to you | Shared | Default viewSystem | My enrichable companiesSystem | All enrichable companiesSystem | Create saved search | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39
+[2026-04-27T13:57:31.453Z] ⚠️ Error: Could not find Export button
+[2026-04-27T13:57:36.454Z] 
+🚀 New cycle
+[2026-04-27T13:57:36.465Z] ⚠️ Modal detected... closing
+[2026-04-27T13:57:37.773Z] ⌨️ Esc pressed
+[2026-04-27T13:57:37.778Z] 📊 Net new before: 965
+[2026-04-27T13:57:37.782Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:57:39.132Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:57:39.137Z] ✅ Select all result: radio clicked
+[2026-04-27T13:57:39.640Z] 🖱️ Clicking Apply...
+[2026-04-27T13:57:40.582Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:57:43.592Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-27T13:57:43.592Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:57:43.599Z] ❌ Export not found. Buttons: Manage billing | AI Assistant | JC | Import | Copy of Default view | Hide Filters
+2 | Research with AI | Create workflow | Save search | Companies Auto-Score | Search settings | Total
+29.9K | Net New
+965 | Saved
+28.9K | 1 | Clear filters
+2 | More Filters | Name | Actions | Links | Number of employees | Qualify Account | Industries | Keywords | Location | Fit Score 4090 0426200536 | Add column | Bugge Plumbing Inc | Save | Click to run | Fair
+12 | Construction | Bryan, Texas | Austen Plumbing Company | Bastrop, Texas | Ace Tile Etc | El Paso, Texas | Corbel Custom Homes Inc | Houston, Texas | Zentrix Construction | Haltom City, Texas | HOLT EXCAVATING SAND & GRAVEL, LLC | Grand Prairie, Texas | Activate Electric | Spring, Texas | AMERY CONSTRUCTION, INC. | Leftamo Construction | Frisco, Texas | Underdogs Roofing & Remodeling | Ballinger, Texas | Gary Wallace Inc | Denton, Texas | Prime Landscaping LLC | landscape | Helotes, Texas | Monarch Medical Center Apartments | Seal Tite Spray Foam | Victoria, Texas | Clay’s Lawn & Fencing | Tyler, Texas | HOUSTON-PPF, LLC | Island Artistry Tile & Stone | Burton, Texas | Xpert Construction Inc | Josh Smith Construction Consulting | Forney, Texas | BlueBreck | R Moss Plumbing and Heating | Bedford, Texas | Wired Up Houston | Crosby, Texas | Silverback Septic Solutions | El Campo, Texas | RYAN CONSTRUCTION AND REMODELING, LLC | J & L Paint And Repair | Burleson, Texas | ? | All searches | Your searches | Starred | Assigned to you | Shared | Default viewSystem | My enrichable companiesSystem | All enrichable companiesSystem | Create saved search | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39
+[2026-04-27T13:57:43.631Z] ⚠️ Error: Could not find Export button
+[2026-04-27T13:57:48.633Z] 
+🚀 New cycle
+[2026-04-27T13:57:48.643Z] ⚠️ Modal detected... closing
+[2026-04-27T13:57:49.783Z] ⌨️ Esc pressed
+[2026-04-27T13:57:49.792Z] 📊 Net new before: 965
+[2026-04-27T13:57:49.797Z] 🖱️ Clicking header checkbox...
+[2026-04-27T13:57:50.954Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T13:57:50.959Z] ✅ Select all result: radio clicked
+[2026-04-27T13:57:51.461Z] 🖱️ Clicking Apply...
+[2026-04-27T13:57:52.123Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T13:57:55.133Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-27T13:57:55.133Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T13:57:55.141Z] ❌ Export not found. Buttons: Manage billing | AI Assistant | JC | Import | Copy of Default view | Hide Filters
+2 | Research with AI | Create workflow | Save search | Companies Auto-Score | Search settings | Total
+29.9K | Net New
+965 | Saved
+28.9K | 1 | Clear filters
+2 | More Filters | Name | Actions | Links | Number of employees | Qualify Account | Industries | Keywords | Location | Fit Score 4090 0426200536 | Add column | Bugge Plumbing Inc | Save | Click to run | Fair
+12 | Construction | Bryan, Texas | Austen Plumbing Company | Bastrop, Texas | Ace Tile Etc | El Paso, Texas | Corbel Custom Homes Inc | Houston, Texas | Zentrix Construction | Haltom City, Texas | HOLT EXCAVATING SAND & GRAVEL, LLC | Grand Prairie, Texas | Activate Electric | Spring, Texas | AMERY CONSTRUCTION, INC. | Leftamo Construction | Frisco, Texas | Underdogs Roofing & Remodeling | Ballinger, Texas | Gary Wallace Inc | Denton, Texas | Prime Landscaping LLC | landscape | Helotes, Texas | Monarch Medical Center Apartments | Seal Tite Spray Foam | Victoria, Texas | Clay’s Lawn & Fencing | Tyler, Texas | HOUSTON-PPF, LLC | Island Artistry Tile & Stone | Burton, Texas | Xpert Construction Inc | Josh Smith Construction Consulting | Forney, Texas | BlueBreck | R Moss Plumbing and Heating | Bedford, Texas | Wired Up Houston | Crosby, Texas | Silverback Septic Solutions | El Campo, Texas | RYAN CONSTRUCTION AND REMODELING, LLC | J & L Paint And Repair | Burleson, Texas | ? | All searches | Your searches | Starred | Assigned to you | Shared | Default viewSystem | My enrichable companiesSystem | All enrichable companiesSystem | Create saved search | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39
+[2026-04-27T13:57:55.142Z] ⚠️ Error: Could not find Export button
+[2026-04-27T13:57:55.142Z] 🛑 Too many failures — stopping

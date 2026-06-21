@@ -1,0 +1,326 @@
+[2026-04-26T19:46:43.820Z] ✅ Session loaded
+[2026-04-26T19:46:57.846Z] ⚠️ Saved session appears expired — deleting and re-authenticating
+[2026-04-26T19:46:57.847Z] 👉 Please login manually in the browser window...
+[2026-04-26T19:48:00.354Z] ✅ New session saved
+[2026-04-26T19:48:00.355Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-26T19:48:14.290Z] 
+🚀 New cycle
+[2026-04-26T19:48:14.325Z] ⚠️ Modal detected... closing
+[2026-04-26T19:48:18.085Z] ✅ Modal closed
+[2026-04-26T19:48:18.457Z] 📊 Net new before: 302
+[2026-04-26T19:48:24.858Z] ⚠️ Modal detected... closing
+[2026-04-26T19:48:41.503Z] ✅ Modal closed
+[2026-04-26T19:48:41.592Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T19:48:41.592Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T19:48:42.792Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T19:48:44.340Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T19:48:46.270Z] ✅ Clicked Apply (from dropdown)
+[2026-04-26T19:48:48.790Z] ☑️ Selected count: 25
+[2026-04-26T19:48:50.785Z] ✅ Clicked Export
+[2026-04-26T19:49:22.776Z] ⚠️ Error: elementHandle.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    29 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+[2026-04-26T19:49:27.778Z] 
+🚀 New cycle
+[2026-04-26T19:49:27.798Z] ⚠️ Modal detected... closing
+[2026-04-26T19:49:30.200Z] ✅ Modal closed
+[2026-04-26T19:49:30.319Z] 📊 Net new before: 113
+[2026-04-26T19:49:30.597Z] ⚠️ Modal detected... closing
+[2026-04-26T19:49:34.796Z] ⌨️ Esc pressed
+[2026-04-26T19:49:34.828Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T19:49:34.829Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T19:49:35.761Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T19:49:37.703Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T19:49:38.786Z] ✅ Clicked Apply (from dropdown)
+[2026-04-26T19:49:41.298Z] ☑️ Selected count: 25
+[2026-04-26T19:49:42.361Z] ✅ Clicked Export
+[2026-04-26T19:50:13.980Z] ⚠️ Error: elementHandle.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    38 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+[2026-04-26T19:50:19.047Z] 
+🚀 New cycle
+[2026-04-26T19:50:19.121Z] ⚠️ Modal detected... closing
+[2026-04-26T19:50:21.420Z] ✅ Modal closed
+[2026-04-26T19:50:21.428Z] 📊 Net new before: 113
+[2026-04-26T19:50:21.466Z] ⚠️ Modal detected... closing
+[2026-04-26T19:50:24.173Z] ⌨️ Esc pressed
+[2026-04-26T19:50:24.277Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T19:50:24.285Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T19:50:25.213Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T19:50:27.037Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T19:50:29.284Z] ✅ Clicked Apply (from dropdown)
+[2026-04-26T19:50:31.847Z] ☑️ Selected count: 25
+[2026-04-26T19:50:35.181Z] ✅ Clicked Export
+[2026-04-26T19:51:07.328Z] ⚠️ Error: elementHandle.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    34 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+[2026-04-26T19:51:12.380Z] 
+🚀 New cycle
+[2026-04-26T19:51:12.539Z] ⚠️ Modal detected... closing
+[2026-04-26T19:51:14.373Z] ✅ Modal closed
+[2026-04-26T19:51:14.656Z] 📊 Net new before: 113
+[2026-04-26T19:51:15.278Z] ⚠️ Modal detected... closing
+[2026-04-26T19:51:19.574Z] ⌨️ Esc pressed
+[2026-04-26T19:51:19.688Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T19:51:19.688Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T19:51:20.973Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T19:51:23.311Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T19:51:26.270Z] ✅ Clicked Apply (from dropdown)
+[2026-04-26T19:51:28.831Z] ☑️ Selected count: 25
+[2026-04-26T19:51:29.953Z] ✅ Clicked Export
+[2026-04-26T19:52:01.551Z] ⚠️ Error: elementHandle.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    32 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+[2026-04-26T19:52:06.553Z] 
+🚀 New cycle
+[2026-04-26T19:52:06.608Z] ⚠️ Modal detected... closing
+[2026-04-26T19:52:09.878Z] ✅ Modal closed
+[2026-04-26T19:52:10.215Z] 📊 Net new before: 113
+[2026-04-26T19:52:11.153Z] ⚠️ Modal detected... closing
+[2026-04-26T19:52:18.546Z] ⌨️ Esc pressed
+[2026-04-26T19:52:18.632Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T19:52:18.632Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T19:52:19.844Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T19:52:24.054Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T19:52:31.642Z] ✅ Clicked Apply (from dropdown)
+[2026-04-26T19:52:35.168Z] ☑️ Selected count: 25
+[2026-04-26T19:52:41.972Z] ✅ Clicked Export
+[2026-04-26T19:53:13.687Z] ⚠️ Error: elementHandle.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    32 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+[2026-04-26T19:53:18.689Z] 
+🚀 New cycle
+[2026-04-26T19:53:18.771Z] ⚠️ Modal detected... closing
+[2026-04-26T19:53:20.444Z] ✅ Modal closed
+[2026-04-26T19:53:20.504Z] 📊 Net new before: 113
+[2026-04-26T19:53:20.561Z] ⚠️ Modal detected... closing
+[2026-04-26T19:53:22.244Z] ⌨️ Esc pressed
+[2026-04-26T19:53:22.263Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T19:53:22.263Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T19:53:23.201Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T19:53:24.883Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T19:53:26.024Z] ✅ Clicked Apply (from dropdown)
+[2026-04-26T19:53:28.545Z] ☑️ Selected count: 25
+[2026-04-26T19:53:29.948Z] ✅ Clicked Export
+[2026-04-26T19:54:01.650Z] ⚠️ Error: elementHandle.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    28 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+
+[2026-04-26T19:54:06.697Z] 
+🚀 New cycle
+[2026-04-26T19:54:06.739Z] ⚠️ Modal detected... closing
+[2026-04-26T19:54:08.959Z] ✅ Modal closed
+[2026-04-26T19:54:09.151Z] 📊 Net new before: 113
+[2026-04-26T19:54:09.725Z] ⚠️ Modal detected... closing
+[2026-04-26T19:54:13.660Z] ⌨️ Esc pressed
+[2026-04-26T19:54:13.775Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T19:54:13.775Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T19:54:14.890Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T19:54:16.408Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T19:54:19.613Z] ✅ Clicked Apply (from dropdown)
+[2026-04-26T19:54:22.199Z] ☑️ Selected count: 25
+[2026-04-26T19:54:25.798Z] ✅ Clicked Export
+[2026-04-26T19:54:57.864Z] ⚠️ Error: elementHandle.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    30 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+
+[2026-04-26T19:55:02.951Z] 
+🚀 New cycle
+[2026-04-26T19:55:02.988Z] ⚠️ Modal detected... closing
+[2026-04-26T19:55:04.624Z] ✅ Modal closed
+[2026-04-26T19:55:04.652Z] 📊 Net new before: 113
+[2026-04-26T19:55:04.693Z] ⚠️ Modal detected... closing
+[2026-04-26T19:55:06.725Z] ⌨️ Esc pressed
+[2026-04-26T19:55:06.739Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-26T19:55:06.739Z] 🖱️ Hovering checkbox to reveal submenu...
+[2026-04-26T19:55:07.672Z] 🖱️ Clicking checkbox to open submenu...
+[2026-04-26T19:55:09.156Z] ✅ "Select All" menu item found via: text=Select All
+[2026-04-26T19:55:11.894Z] ✅ Clicked Apply (from dropdown)
+[2026-04-26T19:55:14.414Z] ☑️ Selected count: 25
+[2026-04-26T19:55:16.471Z] ✅ Clicked Export
+[2026-04-26T19:55:47.941Z] 🛑 SIGINT received — closing browser
+[2026-04-26T19:55:48.096Z] ⚠️ Error: elementHandle.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - attempting click action[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m    - waiting 20ms[22m
+[2m    2 × waiting for element to be visible, enabled and stable[22m
+[2m      - element is visible, enabled and stable[22m
+[2m      - scrolling into view if needed[22m
+[2m      - done scrolling[22m
+[2m      - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m    - retrying click action[22m
+[2m      - waiting 100ms[22m
+[2m    28 × waiting for element to be visible, enabled and stable[22m
+[2m       - element is visible, enabled and stable[22m
+[2m       - scrolling into view if needed[22m
+[2m       - done scrolling[22m
+[2m       - <div tabindex="-1" role="document" class="zp__ugwd">…</div> from <div role="dialog" data-ds-legacy-modal="true" class="apolloio-css-vars-reset zp zp-modal zp_xIDFy">…</div> subtree intercepts pointer events[22m
+[2m     - retrying click action[22m
+[2m       - waiting 500ms[22m
+[2m    - waiting for element to be visible, enabled and stable[22m
+[2m    - element is visible, enabled and stable[22m
+[2m    - scrolling into view if needed[22m
+[2m    - done scrolling[22m
+

@@ -1,0 +1,16 @@
+[2026-04-29T14:01:44.167Z] ✅ Session loaded
+[2026-04-29T14:02:05.739Z] ⚠️ Session expired — please login again
+[2026-04-29T14:03:06.353Z] ✅ New session saved
+[2026-04-29T14:03:06.355Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-29T14:06:44.134Z] 🔖 Search URL locked: https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd477369645401010000&organizationLocations[]=New%20York%2C%20US
+[2026-04-29T14:06:44.134Z] 
+🚀 New cycle
+[2026-04-29T14:06:44.169Z] ⚠️ Modal detected... closing
+[2026-04-29T14:06:50.645Z] ✅ Modal closed
+[2026-04-29T14:06:51.254Z] 📊 Net new before: 56
+[2026-04-29T14:06:52.249Z] 🖱️ Clicking header checkbox...
+[2026-04-29T14:06:53.876Z] 🛑 SIGINT received — closing browser
+[2026-04-29T14:06:54.071Z] ⚠️ Error: locator.waitFor: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('input[data-interaction="Table Bulk Select Checkbox"]').first() to be visible[22m
+

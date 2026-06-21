@@ -1,0 +1,29 @@
+[2026-04-27T10:06:54.492Z] ✅ Session loaded
+[2026-04-27T10:07:07.150Z] ⚠️ Session expired — please login again
+[2026-04-27T10:08:07.859Z] ✅ New session saved
+[2026-04-27T10:08:07.859Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-27T10:08:26.460Z] 🔖 Search URL: https://app.apollo.io/#/companies?organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=Texas%2C%20US&page=1&sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&recommendationConfigId=69bc831072e36400011fa47f
+[2026-04-27T10:08:26.460Z] 
+🚀 New cycle
+[2026-04-27T10:08:26.475Z] ⚠️ Modal detected... closing
+[2026-04-27T10:08:27.660Z] ⌨️ Esc pressed
+[2026-04-27T10:08:27.675Z] 📊 Net new before: 27
+[2026-04-27T10:08:27.680Z] 🖱️ Clicking header checkbox...
+[2026-04-27T10:08:29.291Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T10:08:29.376Z] ✅ Select all result: radio clicked
+[2026-04-27T10:08:29.879Z] 🖱️ Clicking Apply...
+[2026-04-27T10:08:30.700Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T10:08:33.717Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T10:08:33.717Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T10:08:34.447Z] ✅ Clicked Export
+[2026-04-27T10:08:35.950Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T10:08:36.068Z] ✅ Export to CSV modal opened
+[2026-04-27T10:08:36.895Z] 🖱️ Clicking Export records...
+[2026-04-27T10:08:37.278Z] ✅ Clicked Export records
+[2026-04-27T10:08:37.278Z] ⏳ Waiting 25s for export to process...
+[2026-04-27T10:09:02.289Z] 🔄 Reloading search...
+[2026-04-27T10:09:07.420Z] ⚠️ Modal detected... closing
+[2026-04-27T10:09:09.229Z] ⌨️ Esc pressed
+[2026-04-27T10:09:09.240Z] 📉 Net new after: 27
+[2026-04-27T10:09:09.240Z] ⏳ Count unchanged — waiting 10s and re-checking
+[2026-04-27T10:09:19.252Z] 🛑 No progress — stopping

@@ -1,0 +1,52 @@
+[2026-04-28T09:32:28.590Z] ✅ Session loaded
+[2026-04-28T09:32:42.381Z] ⚠️ Session expired — please login again
+[2026-04-28T09:33:42.974Z] ✅ New session saved
+[2026-04-28T09:33:42.975Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-28T09:34:32.946Z] 
+🚀 New cycle
+[2026-04-28T09:34:32.966Z] ⚠️ Modal detected... closing
+[2026-04-28T09:34:34.183Z] ⌨️ Esc pressed
+[2026-04-28T09:34:34.194Z] 📊 Net new before: 189
+[2026-04-28T09:34:34.199Z] 🖱️ Clicking header checkbox...
+[2026-04-28T09:34:35.829Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T09:34:35.875Z] ✅ Select all result: radio clicked
+[2026-04-28T09:34:36.394Z] 🖱️ Clicking Apply...
+[2026-04-28T09:34:37.314Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T09:34:40.329Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-28T09:34:40.330Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T09:34:49.111Z] ✅ Clicked Export
+[2026-04-28T09:34:50.628Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-28T09:34:50.684Z] ✅ Export to CSV modal opened
+[2026-04-28T09:34:51.494Z] 🖱️ Clicking Export records...
+[2026-04-28T09:34:51.743Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-28T09:34:51.743Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-28T09:34:56.776Z] ✅ Toast appeared — polling until complete...
+[2026-04-28T09:35:02.141Z] ⏳ Still in progress... 70%
+[2026-04-28T09:35:07.152Z] ⏳ Still in progress... unknown %
+[2026-04-28T09:35:12.177Z] ⏳ Still in progress... unknown %
+[2026-04-28T09:35:17.186Z] ⏳ Still in progress... unknown %
+[2026-04-28T09:35:22.194Z] ⏳ Still in progress... unknown %
+[2026-04-28T09:35:27.206Z] ⏳ Still in progress... unknown %
+[2026-04-28T09:35:32.250Z] ⏳ Still in progress... unknown %
+[2026-04-28T09:35:37.262Z] ⏳ Still in progress... unknown %
+[2026-04-28T09:35:42.275Z] ⏳ Still in progress... unknown %
+[2026-04-28T09:35:47.281Z] ⏳ Still in progress... unknown %
+[2026-04-28T09:35:52.293Z] ⏳ Still in progress... unknown %
+[2026-04-28T09:35:57.303Z] ✅ Export complete — clicking X to dismiss toast...
+[2026-04-28T09:35:59.560Z] ✅ Toast(s) dismissed via apollo-icon-times
+[2026-04-28T09:36:00.079Z] 🆕 Opening new tab: https://app.apollo.io/#/companies?prospectedByCurrentTeam[]=no&page=1&sortAscending=false&sortByField=recommendations_score&recommendationConfigId=69bc831072e36400011fa47f
+[2026-04-28T09:36:30.322Z] ⚠️ Error: page.goto: Timeout 30000ms exceeded.
+Call log:
+[2m  - navigating to "https://app.apollo.io/#/companies?prospectedByCurrentTeam[]=no&page=1&sortAscending=false&sortByField=recommendations_score&recommendationConfigId=69bc831072e36400011fa47f", waiting until "domcontentloaded"[22m
+
+[2026-04-28T09:36:35.329Z] 
+🚀 New cycle
+[2026-04-28T09:36:35.337Z] ⚠️ Modal detected... closing
+[2026-04-28T09:36:36.452Z] ⌨️ Esc pressed
+[2026-04-28T09:36:36.457Z] 📊 Net new before: 32
+[2026-04-28T09:36:36.462Z] 🖱️ Clicking header checkbox...
+[2026-04-28T09:36:46.449Z] 🛑 SIGINT received — closing browser
+[2026-04-28T09:36:46.570Z] ⚠️ Error: locator.waitFor: Timeout 10000ms exceeded.
+Call log:
+[2m  - waiting for locator('[role="columnheader"] input[type="checkbox"]').first() to be visible[22m
+

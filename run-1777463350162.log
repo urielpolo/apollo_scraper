@@ -1,0 +1,15 @@
+[2026-04-29T11:49:16.747Z] ✅ Session loaded
+[2026-04-29T11:49:31.107Z] ⚠️ Session expired — please login again
+[2026-04-29T11:50:32.517Z] ✅ New session saved
+[2026-04-29T11:50:32.518Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-29T11:56:25.972Z] 
+🚀 New cycle
+[2026-04-29T11:56:26.028Z] ⚠️ Modal detected... closing
+[2026-04-29T11:56:31.380Z] ✅ Modal closed
+[2026-04-29T11:56:32.689Z] 📊 Net new before: 56
+[2026-04-29T11:56:33.534Z] 🖱️ Clicking header checkbox...
+[2026-04-29T11:56:35.021Z] 🛑 SIGINT received — closing browser
+[2026-04-29T11:56:35.317Z] ⚠️ Error: locator.waitFor: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('[role="columnheader"] input[type="checkbox"]').first() to be visible[22m
+

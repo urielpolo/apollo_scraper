@@ -1,0 +1,74 @@
+[2026-04-27T10:12:53.653Z] ✅ Session loaded
+[2026-04-27T10:13:05.353Z] ⚠️ Session expired — please login again
+[2026-04-27T10:14:06.428Z] ✅ New session saved
+[2026-04-27T10:14:06.428Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-27T10:14:13.388Z] 🔖 Search URL: https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationLocations[]=Texas%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000
+[2026-04-27T10:14:13.388Z] 
+🚀 New cycle
+[2026-04-27T10:14:13.413Z] ⚠️ Modal detected... closing
+[2026-04-27T10:14:14.843Z] ⌨️ Esc pressed
+[2026-04-27T10:14:14.858Z] 📊 Net new before: 26
+[2026-04-27T10:14:14.898Z] 🖱️ Clicking header checkbox...
+[2026-04-27T10:14:16.466Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T10:14:16.539Z] ✅ Select all result: radio clicked
+[2026-04-27T10:14:17.042Z] 🖱️ Clicking Apply...
+[2026-04-27T10:14:17.990Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T10:14:21.002Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T10:14:21.002Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T10:14:22.074Z] ✅ Clicked Export
+[2026-04-27T10:14:23.575Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T10:14:23.604Z] ✅ Export to CSV modal opened
+[2026-04-27T10:14:24.416Z] 🖱️ Clicking Export records...
+[2026-04-27T10:14:24.591Z] ✅ Clicked Export records
+[2026-04-27T10:14:24.592Z] ⏳ Waiting 60s for Apollo to process...
+[2026-04-27T10:15:24.610Z] 🔄 Reload attempt 1/5...
+[2026-04-27T10:15:29.780Z] ⚠️ Modal detected... closing
+[2026-04-27T10:15:31.417Z] ⌨️ Esc pressed
+[2026-04-27T10:15:31.428Z] 📉 Net new after reload: 26
+[2026-04-27T10:15:31.428Z] ⏳ Count still 26 — waiting 30s before next check
+[2026-04-27T10:16:01.432Z] 🔄 Reload attempt 2/5...
+[2026-04-27T10:16:06.552Z] ⚠️ Modal detected... closing
+[2026-04-27T10:16:07.794Z] ⌨️ Esc pressed
+[2026-04-27T10:16:07.802Z] 📉 Net new after reload: 26
+[2026-04-27T10:16:07.802Z] ⏳ Count still 26 — waiting 30s before next check
+[2026-04-27T10:16:37.804Z] 🔄 Reload attempt 3/5...
+[2026-04-27T10:16:42.925Z] ⚠️ Modal detected... closing
+[2026-04-27T10:16:44.139Z] ⌨️ Esc pressed
+[2026-04-27T10:16:44.147Z] 📉 Net new after reload: 26
+[2026-04-27T10:16:44.147Z] ⏳ Count still 26 — waiting 30s before next check
+[2026-04-27T10:17:14.151Z] 🔄 Reload attempt 4/5...
+[2026-04-27T10:17:19.507Z] ⚠️ Modal detected... closing
+[2026-04-27T10:17:20.667Z] ⌨️ Esc pressed
+[2026-04-27T10:17:20.676Z] 📉 Net new after reload: 26
+[2026-04-27T10:17:20.676Z] ⏳ Count still 26 — waiting 30s before next check
+[2026-04-27T10:17:50.678Z] 🔄 Reload attempt 5/5...
+[2026-04-27T10:17:55.798Z] ⚠️ Modal detected... closing
+[2026-04-27T10:17:57.496Z] ⌨️ Esc pressed
+[2026-04-27T10:17:57.506Z] 📉 Net new after reload: 26
+[2026-04-27T10:17:57.506Z] ⏳ Count still 26 — waiting 30s before next check
+[2026-04-27T10:17:57.506Z] ⚠️ Count never dropped after max attempts — continuing anyway
+[2026-04-27T10:17:57.506Z] 
+🚀 New cycle
+[2026-04-27T10:17:57.514Z] ⚠️ Modal detected... closing
+[2026-04-27T10:17:58.711Z] ⌨️ Esc pressed
+[2026-04-27T10:17:58.720Z] 📊 Net new before: 26
+[2026-04-27T10:17:58.726Z] 🖱️ Clicking header checkbox...
+[2026-04-27T10:18:00.445Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-27T10:18:00.455Z] ✅ Select all result: radio clicked
+[2026-04-27T10:18:00.961Z] 🖱️ Clicking Apply...
+[2026-04-27T10:18:01.762Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-27T10:18:04.772Z] ☑️ Confirmed: 1000 records selected
+[2026-04-27T10:18:04.772Z] 🖱️ Clicking Export in toolbar...
+[2026-04-27T10:18:05.487Z] ✅ Clicked Export
+[2026-04-27T10:18:06.989Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-27T10:18:07.072Z] ✅ Export to CSV modal opened
+[2026-04-27T10:18:07.883Z] 🖱️ Clicking Export records...
+[2026-04-27T10:18:08.066Z] ✅ Clicked Export records
+[2026-04-27T10:18:08.066Z] ⏳ Waiting 60s for Apollo to process...
+[2026-04-27T10:19:08.079Z] 🔄 Reload attempt 1/5...
+[2026-04-27T10:19:13.230Z] ⚠️ Modal detected... closing
+[2026-04-27T10:19:15.383Z] ⌨️ Esc pressed
+[2026-04-27T10:19:15.391Z] 📉 Net new after reload: 26
+[2026-04-27T10:19:15.391Z] ⏳ Count still 26 — waiting 30s before next check
+[2026-04-27T10:19:19.937Z] 🛑 SIGINT received — closing browser
+[2026-04-27T10:19:20.091Z] ⚠️ Error: page.waitForTimeout: Target page, context or browser has been closed

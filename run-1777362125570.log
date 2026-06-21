@@ -1,0 +1,65 @@
+[2026-04-28T07:42:10.389Z] ✅ Session loaded
+[2026-04-28T07:42:24.766Z] ⚠️ Session expired — please login again
+[2026-04-28T07:43:27.512Z] ✅ New session saved
+[2026-04-28T07:43:27.513Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-28T07:43:45.575Z] 
+🚀 New cycle
+[2026-04-28T07:43:45.839Z] ⚠️ Modal detected... closing
+[2026-04-28T07:43:49.057Z] ⌨️ Esc pressed
+[2026-04-28T07:43:49.158Z] 📊 Net new before: 224
+[2026-04-28T07:43:49.166Z] 🖱️ Clicking header checkbox...
+[2026-04-28T07:43:51.368Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T07:43:51.428Z] ✅ Select all result: radio clicked
+[2026-04-28T07:43:51.930Z] 🖱️ Clicking Apply...
+[2026-04-28T07:43:54.546Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T07:43:58.078Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-28T07:43:58.078Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T07:43:58.105Z] ❌ Export not found. Buttons: Manage billing | AI Assistant | JC | Import | Copy of Default view | Hide Filters
+2 | Research with AI | Create workflow | Save search | Companies Auto-Score | Search settings | Total
+318.1K | Net New
+224.9K | Saved
+93.2K | 1 | Clear filters
+2 | More Filters | Name | Actions | Links | Number of employees | Qualify Account | Industries | Keywords | Location | Fit Score 4090 0426200536 | Add column | Bulldog Tools | Save | Click to run | Good
+45 | Construction | construction | Wayne, Pennsylvania | Liberty One Group | Real Estate | asset management | New York, New York | Southeast Emulsions | liquid asphalt | Duncan, South Carolina | McCombs Steel | office | Statesville, North Carolina | 41 Case and Millwork | design-build services | Greer, South Carolina | Power Systems, Inc. of SC | Gilbert, South Carolina | Highway Signing Inc. | traffic control | Council Bluffs, Iowa | MG3D, LLC | drone scanning | Columbia, South Carolina | Carlson Projects Inc | kitchen renovation | Lincoln, Nebraska | GREENFIELD CONTRACTORS LLC | fabric structures | Princeville, Illinois | J.M. O'Neill, Inc. | lab improvements | Pleasanton, California | Bradley Overhead Door Inc | garage doors openers | Ashley, Indiana | 3QC | Folsom, California | Choice Granite Company | home improvement | White Plains, New York | Pacific Paradise Pools | sculptured rock | Santa Ana, California | BET Investments | real estate investment | Dresher, Pennsylvania | Hometelligent Inc | waste reduction | Albany, California | American Classic Construction | renovation | Los Angeles, California | Dream Closets, Inc. | Sophia, North Carolina | Interior Technology Inc. | service maintenance | Seattle, Washington | Ventures Design & Build | Design | four season rooms | Novi, Michigan | Rosso Site Development, Inc. | United States | CK Valenti Designs, Inc. | furniture accessories | Chandler, Arizona | Padgett Incorporated | New Albany, Indiana | Quick Response Fire Protection GA | fire protection | Cartersville, Georgia | OK | All searches | Your searches | Starred | Assigned to you | Shared | Default viewSystem | My enrichable companiesSystem | All enrichable companiesSystem | Create saved search | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80 | 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100
+[2026-04-28T07:43:58.106Z] ⚠️ Error: Could not find Export button
+[2026-04-28T07:44:04.669Z] 
+🚀 New cycle
+[2026-04-28T07:44:05.701Z] ⚠️ Modal detected... closing
+[2026-04-28T07:44:12.226Z] ⌨️ Esc pressed
+[2026-04-28T07:44:12.265Z] 📊 Net new before: 224
+[2026-04-28T07:44:12.286Z] 🖱️ Clicking header checkbox...
+[2026-04-28T07:44:15.206Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T07:44:15.315Z] ✅ Select all result: radio clicked
+[2026-04-28T07:44:15.827Z] 🖱️ Clicking Apply...
+[2026-04-28T07:44:18.144Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T07:44:21.213Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-28T07:44:21.213Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T07:44:27.838Z] ✅ Clicked Export
+[2026-04-28T07:44:29.355Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-28T07:44:29.500Z] ✅ Export to CSV modal opened
+[2026-04-28T07:44:30.330Z] 🖱️ Clicking Export records...
+[2026-04-28T07:44:30.750Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-28T07:44:30.751Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-28T07:44:45.808Z] ℹ️ No progress toast detected — may have already completed, continuing
+[2026-04-28T07:44:45.826Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?organizationLocations[]=United%20States&organizationIndustryTagIds[]=5567cd4773696439dd350000&page=1&sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&recommendationConfigId=69bc831072e36400011fa47f
+[2026-04-28T07:44:54.360Z] ⚠️ Modal detected... closing
+[2026-04-28T07:44:56.561Z] ⌨️ Esc pressed
+[2026-04-28T07:44:56.568Z] 📉 Net new after reload: 224
+[2026-04-28T07:44:56.568Z] ⏳ Count still 224 — waiting 15s before next check
+[2026-04-28T07:45:11.587Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?organizationLocations[]=United%20States&organizationIndustryTagIds[]=5567cd4773696439dd350000&page=1&sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&recommendationConfigId=69bc831072e36400011fa47f
+[2026-04-28T07:45:22.279Z] ⚠️ Modal detected... closing
+[2026-04-28T07:45:23.570Z] ⌨️ Esc pressed
+[2026-04-28T07:45:23.575Z] 📉 Net new after reload: null
+[2026-04-28T07:45:23.575Z] ⚠️ Could not read count — retrying
+[2026-04-28T07:45:38.577Z] 🔄 Reloading (attempt 3/6): https://app.apollo.io/#/companies?organizationLocations[]=United%20States&organizationIndustryTagIds[]=5567cd4773696439dd350000&page=1&sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&recommendationConfigId=69bc831072e36400011fa47f
+[2026-04-28T07:45:46.698Z] ⚠️ Modal detected... closing
+[2026-04-28T07:45:47.689Z] ⌨️ Esc pressed
+[2026-04-28T07:45:47.693Z] 📉 Net new after reload: null
+[2026-04-28T07:45:47.693Z] ⚠️ Could not read count — retrying
+[2026-04-28T07:46:02.695Z] 🔄 Reloading (attempt 4/6): https://app.apollo.io/#/companies?organizationLocations[]=United%20States&organizationIndustryTagIds[]=5567cd4773696439dd350000&page=1&sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&recommendationConfigId=69bc831072e36400011fa47f
+[2026-04-28T07:46:23.472Z] ⚠️ Modal detected... closing
+[2026-04-28T07:46:26.829Z] ⌨️ Esc pressed
+[2026-04-28T07:46:26.845Z] 📉 Net new after reload: 224
+[2026-04-28T07:46:26.845Z] ⏳ Count still 224 — waiting 15s before next check
+[2026-04-28T07:46:31.391Z] 🛑 SIGINT received — closing browser
+[2026-04-28T07:46:35.215Z] ⚠️ Error: page.waitForTimeout: Target page, context or browser has been closed

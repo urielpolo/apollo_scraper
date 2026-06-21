@@ -1,0 +1,314 @@
+[2026-04-28T07:47:51.074Z] ✅ Session loaded
+[2026-04-28T07:48:19.630Z] ⚠️ Session expired — please login again
+[2026-04-28T07:49:20.071Z] ✅ New session saved
+[2026-04-28T07:49:20.072Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-28T08:02:37.044Z] 
+🚀 New cycle
+[2026-04-28T08:02:37.117Z] ⚠️ Modal detected... closing
+[2026-04-28T08:02:39.085Z] ⌨️ Esc pressed
+[2026-04-28T08:02:39.104Z] 📊 Net new before: 223
+[2026-04-28T08:02:39.111Z] 🖱️ Clicking header checkbox...
+[2026-04-28T08:02:40.951Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T08:02:40.979Z] ✅ Select all result: radio clicked
+[2026-04-28T08:02:41.481Z] 🖱️ Clicking Apply...
+[2026-04-28T08:02:42.451Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T08:02:45.541Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-28T08:02:45.541Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T08:02:53.472Z] ✅ Clicked Export
+[2026-04-28T08:02:54.973Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-28T08:02:55.043Z] ✅ Export to CSV modal opened
+[2026-04-28T08:02:55.868Z] 🖱️ Clicking Export records...
+[2026-04-28T08:02:56.112Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-28T08:02:56.114Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-28T08:03:01.225Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-28T08:03:06.249Z] ⏳ Still in progress... unknown %
+[2026-04-28T08:03:11.327Z] ⏳ Still in progress... 5%
+[2026-04-28T08:03:16.339Z] ⏳ Still in progress... 5%
+[2026-04-28T08:03:21.369Z] ⏳ Still in progress... 5%
+[2026-04-28T08:03:26.439Z] ⏳ Still in progress... 5%
+[2026-04-28T08:03:31.591Z] ⏳ Still in progress... 5%
+[2026-04-28T08:03:36.817Z] ⏳ Still in progress... 5%
+[2026-04-28T08:03:46.929Z] ⏳ Still in progress... 60%
+[2026-04-28T08:03:51.947Z] ⏳ Still in progress... 80%
+[2026-04-28T08:03:57.075Z] ⏳ Still in progress... 80%
+[2026-04-28T08:04:02.081Z] ⏳ Still in progress... 90%
+[2026-04-28T08:04:07.110Z] ⏳ Still in progress... unknown %
+[2026-04-28T08:04:12.120Z] ⏳ Still in progress... unknown %
+[2026-04-28T08:04:17.759Z] ⏳ Still in progress... unknown %
+[2026-04-28T08:04:22.777Z] ✅ Progress toast gone — export complete
+[2026-04-28T08:04:22.791Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:04:30.977Z] ⚠️ Modal detected... closing
+[2026-04-28T08:04:33.074Z] ⌨️ Esc pressed
+[2026-04-28T08:04:33.080Z] 📉 Net new after reload: 223
+[2026-04-28T08:04:33.081Z] ⏳ Count still 223 — waiting 15s before next check
+[2026-04-28T08:04:48.098Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:05:01.466Z] ⚠️ closeModalIfPresent error (ignored): page.$: Protocol error (DOM.describeNode): Cannot find context with specified id
+[2026-04-28T08:05:02.897Z] 📉 Net new after reload: null
+[2026-04-28T08:05:02.897Z] ⚠️ Could not read count — retrying
+[2026-04-28T08:05:18.345Z] 🔄 Reloading (attempt 3/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:05:28.006Z] ⚠️ Modal detected... closing
+[2026-04-28T08:05:28.980Z] ⌨️ Esc pressed
+[2026-04-28T08:05:28.985Z] 📉 Net new after reload: null
+[2026-04-28T08:05:28.985Z] ⚠️ Could not read count — retrying
+[2026-04-28T08:05:43.987Z] 🔄 Reloading (attempt 4/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:05:58.176Z] ⚠️ Modal detected... closing
+[2026-04-28T08:06:01.105Z] ⌨️ Esc pressed
+[2026-04-28T08:06:01.118Z] 📉 Net new after reload: 222
+[2026-04-28T08:06:01.118Z] ✅ Count dropped 223 → 222
+[2026-04-28T08:06:01.118Z] 
+🚀 New cycle
+[2026-04-28T08:06:01.152Z] ⚠️ Modal detected... closing
+[2026-04-28T08:06:03.280Z] ⌨️ Esc pressed
+[2026-04-28T08:06:03.368Z] 📊 Net new before: 222
+[2026-04-28T08:06:03.374Z] 🖱️ Clicking header checkbox...
+[2026-04-28T08:06:07.620Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T08:06:08.769Z] ✅ Select all result: radio clicked
+[2026-04-28T08:06:09.286Z] 🖱️ Clicking Apply...
+[2026-04-28T08:06:12.423Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T08:06:15.453Z] ☑️ Confirmed: 1000 records selected
+[2026-04-28T08:06:15.453Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T08:06:16.642Z] ✅ Clicked Export
+[2026-04-28T08:06:18.147Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-28T08:06:18.242Z] ✅ Export to CSV modal opened
+[2026-04-28T08:06:19.067Z] 🖱️ Clicking Export records...
+[2026-04-28T08:06:19.540Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-28T08:06:19.542Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-28T08:06:24.576Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-28T08:06:30.340Z] ⏳ Still in progress... 5%
+[2026-04-28T08:06:35.431Z] ⏳ Still in progress... 50%
+[2026-04-28T08:06:40.453Z] ⏳ Still in progress... 75%
+[2026-04-28T08:06:45.471Z] ⏳ Still in progress... unknown %
+[2026-04-28T08:06:51.181Z] ✅ Progress toast gone — export complete
+[2026-04-28T08:06:51.210Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:06:59.362Z] 📉 Net new after reload: null
+[2026-04-28T08:06:59.362Z] ⚠️ Could not read count — retrying
+[2026-04-28T08:07:14.364Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:07:22.477Z] ⚠️ Modal detected... closing
+[2026-04-28T08:07:23.364Z] ⌨️ Esc pressed
+[2026-04-28T08:07:23.497Z] 📉 Net new after reload: null
+[2026-04-28T08:07:23.497Z] ⚠️ Could not read count — retrying
+[2026-04-28T08:07:38.500Z] 🔄 Reloading (attempt 3/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:07:46.610Z] ⚠️ Modal detected... closing
+[2026-04-28T08:07:47.474Z] ⌨️ Esc pressed
+[2026-04-28T08:07:47.482Z] 📉 Net new after reload: null
+[2026-04-28T08:07:47.482Z] ⚠️ Could not read count — retrying
+[2026-04-28T08:08:02.484Z] 🔄 Reloading (attempt 4/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:08:10.594Z] ⚠️ Modal detected... closing
+[2026-04-28T08:08:11.622Z] ⌨️ Esc pressed
+[2026-04-28T08:08:11.625Z] 📉 Net new after reload: null
+[2026-04-28T08:08:11.625Z] ⚠️ Could not read count — retrying
+[2026-04-28T08:08:26.627Z] 🔄 Reloading (attempt 5/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:08:35.362Z] ⚠️ Modal detected... closing
+[2026-04-28T08:08:40.045Z] ⌨️ Esc pressed
+[2026-04-28T08:08:40.304Z] 📉 Net new after reload: null
+[2026-04-28T08:08:40.305Z] ⚠️ Could not read count — retrying
+[2026-04-28T08:08:55.336Z] 🔄 Reloading (attempt 6/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:09:05.154Z] ⚠️ Modal detected... closing
+[2026-04-28T08:09:08.427Z] ⌨️ Esc pressed
+[2026-04-28T08:09:14.865Z] 📉 Net new after reload: null
+[2026-04-28T08:09:14.865Z] ⚠️ Could not read count — retrying
+[2026-04-28T08:09:14.865Z] ⚠️ Count never dropped — continuing to next cycle anyway
+[2026-04-28T08:09:14.865Z] 
+🚀 New cycle
+[2026-04-28T08:09:32.414Z] ⚠️ Modal detected... closing
+[2026-04-28T08:09:50.137Z] ⌨️ Esc pressed
+[2026-04-28T08:09:50.151Z] 📊 Net new before: 221
+[2026-04-28T08:09:50.167Z] 🖱️ Clicking header checkbox...
+[2026-04-28T08:09:52.352Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T08:09:52.807Z] ✅ Select all result: radio clicked
+[2026-04-28T08:09:53.316Z] 🖱️ Clicking Apply...
+[2026-04-28T08:09:55.912Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T08:09:58.969Z] ⚠️ Could not confirm selection — continuing anyway
+[2026-04-28T08:09:58.969Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T08:10:11.259Z] ✅ Clicked Export
+[2026-04-28T08:10:12.760Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-28T08:10:12.921Z] ✅ Export to CSV modal opened
+[2026-04-28T08:10:13.741Z] 🖱️ Clicking Export records...
+[2026-04-28T08:10:13.988Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-28T08:10:13.988Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-28T08:10:19.606Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-28T08:10:24.797Z] ⏳ Still in progress... 35%
+[2026-04-28T08:10:29.812Z] ⏳ Still in progress... 40%
+[2026-04-28T08:10:34.831Z] ⏳ Still in progress... 40%
+[2026-04-28T08:10:47.683Z] ⏳ Still in progress... unknown %
+[2026-04-28T08:10:53.679Z] ✅ Progress toast gone — export complete
+[2026-04-28T08:10:53.801Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:11:02.299Z] 📉 Net new after reload: null
+[2026-04-28T08:11:02.299Z] ⚠️ Could not read count — retrying
+[2026-04-28T08:11:17.302Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:11:33.721Z] ⚠️ Modal detected... closing
+[2026-04-28T08:11:35.405Z] ⌨️ Esc pressed
+[2026-04-28T08:11:35.420Z] 📉 Net new after reload: 220
+[2026-04-28T08:11:35.420Z] ✅ Count dropped 221 → 220
+[2026-04-28T08:11:35.420Z] 
+🚀 New cycle
+[2026-04-28T08:11:35.436Z] ⚠️ Modal detected... closing
+[2026-04-28T08:11:36.830Z] ⌨️ Esc pressed
+[2026-04-28T08:11:36.838Z] 📊 Net new before: 220
+[2026-04-28T08:11:36.845Z] 🖱️ Clicking header checkbox...
+[2026-04-28T08:11:38.853Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T08:11:38.898Z] ✅ Select all result: radio clicked
+[2026-04-28T08:11:39.398Z] 🖱️ Clicking Apply...
+[2026-04-28T08:11:42.075Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T08:11:45.113Z] ☑️ Confirmed: 1000 records selected
+[2026-04-28T08:11:45.114Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T08:11:46.721Z] ✅ Clicked Export
+[2026-04-28T08:11:48.231Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-28T08:11:48.440Z] ✅ Export to CSV modal opened
+[2026-04-28T08:11:49.297Z] 🖱️ Clicking Export records...
+[2026-04-28T08:11:51.398Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-28T08:11:51.399Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-28T08:11:57.697Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-28T08:12:02.797Z] ⏳ Still in progress... 25%
+[2026-04-28T08:12:07.816Z] ⏳ Still in progress... 30%
+[2026-04-28T08:12:12.847Z] ⏳ Still in progress... 30%
+[2026-04-28T08:12:18.035Z] ⏳ Still in progress... 30%
+[2026-04-28T08:12:23.078Z] ⏳ Still in progress... 30%
+[2026-04-28T08:12:28.266Z] ⏳ Still in progress... 35%
+[2026-04-28T08:12:33.515Z] ⏳ Still in progress... 55%
+[2026-04-28T08:12:38.526Z] ⏳ Still in progress... 65%
+[2026-04-28T08:12:43.736Z] ⏳ Still in progress... 70%
+[2026-04-28T08:12:48.858Z] ⏳ Still in progress... 70%
+[2026-04-28T08:12:53.875Z] ⏳ Still in progress... 75%
+[2026-04-28T08:12:58.885Z] ⏳ Still in progress... 80%
+[2026-04-28T08:13:03.895Z] ⏳ Still in progress... 85%
+[2026-04-28T08:13:08.905Z] ⏳ Still in progress... 90%
+[2026-04-28T08:13:13.914Z] ⏳ Still in progress... unknown %
+[2026-04-28T08:13:26.260Z] ✅ Progress toast gone — export complete
+[2026-04-28T08:13:26.292Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:13:37.595Z] ⚠️ Modal detected... closing
+[2026-04-28T08:13:52.626Z] ⌨️ Esc pressed
+[2026-04-28T08:13:53.816Z] 📉 Net new after reload: 219
+[2026-04-28T08:13:53.817Z] ✅ Count dropped 220 → 219
+[2026-04-28T08:13:53.817Z] 
+🚀 New cycle
+[2026-04-28T08:13:57.415Z] ⚠️ Modal detected... closing
+[2026-04-28T08:14:00.208Z] ⌨️ Esc pressed
+[2026-04-28T08:14:00.222Z] 📊 Net new before: 219
+[2026-04-28T08:14:00.228Z] 🖱️ Clicking header checkbox...
+[2026-04-28T08:14:02.353Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T08:14:02.634Z] ✅ Select all result: radio clicked
+[2026-04-28T08:14:03.135Z] 🖱️ Clicking Apply...
+[2026-04-28T08:14:05.514Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T08:14:09.237Z] ☑️ Confirmed: 1000 records selected
+[2026-04-28T08:14:09.237Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T08:14:11.293Z] ✅ Clicked Export
+[2026-04-28T08:14:12.795Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-28T08:14:12.887Z] ✅ Export to CSV modal opened
+[2026-04-28T08:14:13.710Z] 🖱️ Clicking Export records...
+[2026-04-28T08:14:14.019Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-28T08:14:14.035Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-28T08:14:24.525Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-28T08:14:29.679Z] ⏳ Still in progress... 0%
+[2026-04-28T08:14:34.843Z] ⏳ Still in progress... 0%
+[2026-04-28T08:14:39.868Z] ⏳ Still in progress... 0%
+[2026-04-28T08:14:44.968Z] ⏳ Still in progress... 0%
+[2026-04-28T08:14:49.976Z] ⏳ Still in progress... 0%
+[2026-04-28T08:14:55.014Z] ⏳ Still in progress... 0%
+[2026-04-28T08:15:00.023Z] ⏳ Still in progress... 0%
+[2026-04-28T08:15:05.289Z] ⏳ Still in progress... 0%
+[2026-04-28T08:15:10.299Z] ⏳ Still in progress... 0%
+[2026-04-28T08:15:15.309Z] ⏳ Still in progress... 0%
+[2026-04-28T08:15:20.326Z] ⏳ Still in progress... 0%
+[2026-04-28T08:15:25.379Z] ⏳ Still in progress... 0%
+[2026-04-28T08:15:30.401Z] ⏳ Still in progress... 0%
+[2026-04-28T08:15:35.418Z] ⏳ Still in progress... 0%
+[2026-04-28T08:15:40.642Z] ⏳ Still in progress... 25%
+[2026-04-28T08:15:45.665Z] ⏳ Still in progress... 25%
+[2026-04-28T08:15:50.711Z] ⏳ Still in progress... 25%
+[2026-04-28T08:15:55.731Z] ⏳ Still in progress... 30%
+[2026-04-28T08:16:00.744Z] ⏳ Still in progress... 30%
+[2026-04-28T08:16:05.755Z] ⏳ Still in progress... 35%
+[2026-04-28T08:16:10.764Z] ⏳ Still in progress... 40%
+[2026-04-28T08:16:15.779Z] ⏳ Still in progress... 40%
+[2026-04-28T08:16:20.795Z] ⏳ Still in progress... 40%
+[2026-04-28T08:16:25.859Z] ⏳ Still in progress... 40%
+[2026-04-28T08:16:31.269Z] ⏳ Still in progress... 40%
+[2026-04-28T08:16:36.648Z] ⏳ Still in progress... 40%
+[2026-04-28T08:16:41.657Z] ⏳ Still in progress... 40%
+[2026-04-28T08:16:46.673Z] ⏳ Still in progress... 40%
+[2026-04-28T08:16:51.697Z] ⏳ Still in progress... 40%
+[2026-04-28T08:16:56.706Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:01.719Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:06.749Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:11.763Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:16.772Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:21.803Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:26.909Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:31.934Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:37.242Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:42.404Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:47.474Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:52.548Z] ⏳ Still in progress... 40%
+[2026-04-28T08:17:58.517Z] ⏳ Still in progress... 45%
+[2026-04-28T08:18:03.524Z] ⏳ Still in progress... 60%
+[2026-04-28T08:18:08.549Z] ⏳ Still in progress... 0%
+[2026-04-28T08:18:14.074Z] ✅ Progress toast gone — export complete
+[2026-04-28T08:18:14.077Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:18:24.490Z] 📉 Net new after reload: null
+[2026-04-28T08:18:24.490Z] ⚠️ Could not read count — retrying
+[2026-04-28T08:18:39.494Z] 🔄 Reloading (attempt 2/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:18:52.706Z] ⚠️ Modal detected... closing
+[2026-04-28T08:18:57.361Z] ⌨️ Esc pressed
+[2026-04-28T08:18:57.376Z] 📉 Net new after reload: 218
+[2026-04-28T08:18:57.376Z] ✅ Count dropped 219 → 218
+[2026-04-28T08:18:57.376Z] 
+🚀 New cycle
+[2026-04-28T08:18:57.390Z] ⚠️ Modal detected... closing
+[2026-04-28T08:18:58.773Z] ⌨️ Esc pressed
+[2026-04-28T08:18:58.901Z] 📊 Net new before: 218
+[2026-04-28T08:18:58.909Z] 🖱️ Clicking header checkbox...
+[2026-04-28T08:19:01.334Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T08:19:01.365Z] ✅ Select all result: radio clicked
+[2026-04-28T08:19:01.909Z] 🖱️ Clicking Apply...
+[2026-04-28T08:19:03.455Z] ✅ Clicked Apply via: button:has-text("Apply")
+[2026-04-28T08:19:07.058Z] ☑️ Confirmed: 1000 records selected
+[2026-04-28T08:19:07.058Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T08:19:09.405Z] ✅ Clicked Export
+[2026-04-28T08:19:10.907Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-28T08:19:11.090Z] ✅ Export to CSV modal opened
+[2026-04-28T08:19:11.911Z] 🖱️ Clicking Export records...
+[2026-04-28T08:19:12.333Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-28T08:19:12.358Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-28T08:19:17.451Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-28T08:19:22.475Z] ⏳ Still in progress... 10%
+[2026-04-28T08:19:27.484Z] ⏳ Still in progress... 10%
+[2026-04-28T08:19:32.636Z] ⏳ Still in progress... 10%
+[2026-04-28T08:19:37.661Z] ⏳ Still in progress... 10%
+[2026-04-28T08:19:49.610Z] ⏳ Still in progress... 90%
+[2026-04-28T08:19:55.913Z] ✅ Progress toast gone — export complete
+[2026-04-28T08:19:56.045Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:20:10.324Z] ⚠️ Modal detected... closing
+[2026-04-28T08:20:12.289Z] ⌨️ Esc pressed
+[2026-04-28T08:20:12.299Z] 📉 Net new after reload: 217
+[2026-04-28T08:20:12.299Z] ✅ Count dropped 218 → 217
+[2026-04-28T08:20:12.299Z] 
+🚀 New cycle
+[2026-04-28T08:20:12.305Z] ⚠️ Modal detected... closing
+[2026-04-28T08:20:13.964Z] ⌨️ Esc pressed
+[2026-04-28T08:20:13.970Z] 📊 Net new before: 217
+[2026-04-28T08:20:13.974Z] 🖱️ Clicking header checkbox...
+[2026-04-28T08:20:16.374Z] 🖱️ Selecting "Select all" radio option...
+[2026-04-28T08:20:17.473Z] ✅ Select all result: radio clicked
+[2026-04-28T08:20:18.022Z] 🖱️ Clicking Apply...
+[2026-04-28T08:20:25.364Z] ✅ Clicked Apply (fallback)
+[2026-04-28T08:20:29.831Z] ☑️ Confirmed: 1000 records selected
+[2026-04-28T08:20:29.831Z] 🖱️ Clicking Export in toolbar...
+[2026-04-28T08:20:32.215Z] ✅ Clicked Export
+[2026-04-28T08:20:33.746Z] ⏳ Waiting for Export to CSV modal...
+[2026-04-28T08:20:33.807Z] ✅ Export to CSV modal opened
+[2026-04-28T08:20:34.637Z] 🖱️ Clicking Export records...
+[2026-04-28T08:20:34.889Z] ✅ Clicked Export records — watching for progress toast...
+[2026-04-28T08:20:34.889Z] 👀 Waiting for "In Progress" toast to appear...
+[2026-04-28T08:20:39.933Z] ✅ Toast appeared — waiting for it to finish...
+[2026-04-28T08:20:45.817Z] ⏳ Still in progress... 10%
+[2026-04-28T08:21:03.559Z] ⏳ Still in progress... 0%
+[2026-04-28T08:21:09.178Z] ⏳ Still in progress... 0%
+[2026-04-28T08:21:32.179Z] ✅ Progress toast gone — export complete
+[2026-04-28T08:21:32.630Z] 🔄 Reloading (attempt 1/6): https://app.apollo.io/#/companies?sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&page=1&recommendationConfigId=69bc831072e36400011fa47f&organizationIndustryTagIds[]=5567cd4773696439dd350000&organizationLocations[]=United%20States
+[2026-04-28T08:21:46.737Z] ⚠️ Modal detected... closing
+[2026-04-28T08:21:48.308Z] 🛑 SIGINT received — closing browser
+[2026-04-28T08:21:48.454Z] ⌨️ Esc pressed
+[2026-04-28T08:21:49.039Z] 📉 Net new after reload: null
+[2026-04-28T08:21:49.039Z] ⚠️ Could not read count — retrying
+[2026-04-28T08:21:49.074Z] ⚠️ Error: page.waitForTimeout: Target page, context or browser has been closed

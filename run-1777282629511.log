@@ -1,0 +1,20 @@
+[2026-04-27T09:37:13.472Z] ✅ Session loaded
+[2026-04-27T09:37:27.717Z] ⚠️ Saved session expired — please login again
+[2026-04-27T09:38:29.230Z] ✅ New session saved
+[2026-04-27T09:38:29.231Z] 👉 Run your search in Apollo, then press ENTER here...
+[2026-04-27T09:38:40.269Z] 🔖 Search URL saved: https://app.apollo.io/#/companies?organizationLocations[]=New%20York%2C%20US&organizationIndustryTagIds[]=5567cd4773696439dd350000&page=1&sortAscending=false&sortByField=recommendations_score&prospectedByCurrentTeam[]=no&recommendationConfigId=69bc831072e36400011fa47f
+[2026-04-27T09:38:40.269Z] 
+🚀 New cycle
+[2026-04-27T09:38:40.329Z] ⚠️ Modal detected... closing
+[2026-04-27T09:38:46.676Z] ✅ Modal closed
+[2026-04-27T09:38:48.142Z] 📊 Net new before: 1
+[2026-04-27T09:38:57.779Z] ⚠️ Modal detected... closing
+[2026-04-27T09:39:01.784Z] ✅ Modal closed
+[2026-04-27T09:39:03.008Z] ✅ Checkbox found via: [role="columnheader"] input[type="checkbox"]
+[2026-04-27T09:39:06.106Z] ✅ "Select All" found via: text=Select All
+[2026-04-27T09:39:07.533Z] ✅ Clicked Apply (from dropdown)
+[2026-04-27T09:39:41.606Z] ℹ️ No "select all X contacts" banner appeared — using page selection only
+[2026-04-27T09:39:41.924Z] ☑️ Selected: 25
+[2026-04-27T09:39:43.738Z] ✅ Clicked Export
+[2026-04-27T09:39:46.346Z] ✅ Clicked Export CSV
+[2026-04-27T09:40:14.126Z] 🛑 SIGINT received — closing browser
